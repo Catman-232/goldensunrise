@@ -14,7 +14,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 
 		createBadge("StaffAmbassadorAU", "http://b3.ifrm.com/5920/164/0/f7000463/sunrise_ambassador_banner_au_mini.jpg", "Ambassador - Part of Aeiou Universe's Staff", false);
 		createBadge("StaffAmbassadorGSAR", "http://b3.ifrm.com/5920/164/0/f7000461/sunrise_ambassador_banner_gsar_mini.jpg", "Ambassador - Part of Golden Sun Adept's Refuge's Staff", false);
-		createBadge("StaffAmbassadorGSHC", "http://b3.ifrm.com/5920/164/0/f7000462/sunrise_ambassador_banner_gshc_mini.jpg	", "Ambassador - Part of Golden Sun Hacking Community's Staff", false);
+		createBadge("StaffAmbassadorGSHC", "http://b3.ifrm.com/5920/164/0/f7000462/sunrise_ambassador_banner_gshc_mini.jpg", "Ambassador - Part of Golden Sun Hacking Community's Staff", false);
 		createBadge("StaffAmbassadorGSL", "http://b3.ifrm.com/5920/164/0/f7000464/sunrise_ambassador_banner_gsl_mini.jpg", "Ambassador - Part of Golden Sun Land's Staff", false);
 		createBadge("StaffAmbassadorToK", "http://b3.ifrm.com/5920/164/0/f7000460/sunrise_ambassador_banner_tok_mini.jpg", "Ambassador - Part of Temple of Kraden's Staff", false);
 		createBadge("StaffAmbassadorTLW", "http://b3.ifrm.com/5920/164/0/f7000465/sunrise_ambassador_banner_tlw_mini.jpg", "Ambassador - Part of The Lost Water's Staff", false);
