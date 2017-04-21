@@ -10,51 +10,48 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 	{
 		//  Staff Badges.  Admins, Moderators, Ambassadors, then other positions if needed.
 
-		createBadge("StaffJupiter", "http://b3.ifrm.com/5920/164/0/f7000134/StaffECJupiter.png", "Jupiter Administrator", false);
-		createBadge("StaffVenus", "http://b3.ifrm.com/5920/164/0/f7000135/StaffLDVenus.png", "Venus Administrator", false);
-		createBadge("StaffMercury", "http://b3.ifrm.com/5920/164/0/f7000232/StaffLDMercury.png", "Mercury Administrator", false);
-		createBadge("StaffMars", "http://b3.ifrm.com/5920/164/0/f7000137/StaffWMMars.png", "Mars Administrator", false);
-		createBadge("StaffUnaligned", "http://b3.ifrm.com/5920/164/0/f7000136/StaffREUnaligned.png", "Unaligned Administrator", false);
+		createBadge("StaffAdmin", "http://b3.ifrm.com/5920/164/0/f7000477/sunrise_clan_banners_administrator_mini.jpg", "Administrator", false);
 
-		createBadge("StaffAmbassadorAU", "http://b3.ifrm.com/5920/164/0/f7000207/StaffAmbassadorAU.png", "Ambassador - Part of Aeiou Universe's Staff", false);
-		createBadge("StaffAmbassadorGSAR", "http://b3.ifrm.com/5920/164/0/f7000229/StaffAmbassadorGSAR.png", "Ambassador - Part of Golden Sun Adept's Refuge's Staff", false);
-		createBadge("StaffAmbassadorGSHC", "http://b3.ifrm.com/5920/164/0/f7000266/StaffAmbassadorGSHC.png", "Ambassador - Part of Golden Sun Hacking Community's Staff", false);
-		createBadge("StaffAmbassadorGSL", "http://b3.ifrm.com/5920/164/0/f7000394/StaffAmbassadorGSL.png", "Ambassador - Part of Golden Sun Land's Staff", false);
-		createBadge("StaffAmbassadorToK", "http://b3.ifrm.com/5920/164/0/f7000393/StaffAmbassadorToK.png", "Ambassador - Part of Temple of Kraden's Staff", false);
-
+		createBadge("StaffAmbassadorAU", "http://b3.ifrm.com/5920/164/0/f7000463/sunrise_ambassador_banner_au_mini.jpg", "Ambassador - Part of Aeiou Universe's Staff", false);
+		createBadge("StaffAmbassadorGSAR", "http://b3.ifrm.com/5920/164/0/f7000461/sunrise_ambassador_banner_gsar_mini.jpg", "Ambassador - Part of Golden Sun Adept's Refuge's Staff", false);
+		createBadge("StaffAmbassadorGSHC", "http://b3.ifrm.com/5920/164/0/f7000462/sunrise_ambassador_banner_gshc_mini.jpg	", "Ambassador - Part of Golden Sun Hacking Community's Staff", false);
+		createBadge("StaffAmbassadorGSL", "http://b3.ifrm.com/5920/164/0/f7000464/sunrise_ambassador_banner_gsl_mini.jpg", "Ambassador - Part of Golden Sun Land's Staff", false);
+		createBadge("StaffAmbassadorToK", "http://b3.ifrm.com/5920/164/0/f7000460/sunrise_ambassador_banner_tok_mini.jpg", "Ambassador - Part of Temple of Kraden's Staff", false);
+		createBadge("StaffAmbassadorTLW", "http://b3.ifrm.com/5920/164/0/f7000465/sunrise_ambassador_banner_tlw_mini.jpg", "Ambassador - Part of The Lost Water's Staff", false);
+		
 		//StaffOther
 
 		//Alliance badges. Sorted Venus, Mars, Jupiter, then Mercury. Sorted then by rank. Custom Ranks sorted alphabetically after Rank 5.
 
-		createBadge("AllianceRankVenus1", "http://b3.ifrm.com/5920/164/0/f7000150/AllianceRankVenus1.png", "Initiate", false);
-		createBadge("AllianceRankVenus2", "http://b3.ifrm.com/5920/164/0/f7000151/AllianceRankVenus2.png", "Citizen", false);
+		createBadge("AllianceRankVenus1", "http://b3.ifrm.com/5920/164/0/f7000431/sunrise_clan_rank_venus_initiate_mini.jpg", "Initiate", false);
+		createBadge("AllianceRankVenus2", "http://b3.ifrm.com/5920/164/0/f7000432/sunrise_clan_rank_venus_citizen_mini.jpg", "Citizen", false);
 		createBadge("AllianceRankVenus3", "http://b3.ifrm.com/5920/164/0/f7000152/AllianceRankVenus3.png", "Warrior", false);
-		createBadge("AllianceRankVenus4", "http://b3.ifrm.com/5920/164/0/f7000154/AllianceRankVenus4.png", "Elite", false);
-		createBadge("AllianceRankVenus5", "http://b3.ifrm.com/5920/164/0/f7000155/AllianceRankVenus5.png", "Nobility", false);
+		createBadge("AllianceRankVenus4", "http://b3.ifrm.com/5920/164/0/f7000435/sunrise_clan_rank_venus_elite_mini.jpg", "Elite", false);
+		createBadge("AllianceRankVenus5", "http://b3.ifrm.com/5920/164/0/f7000437/sunrise_clan_rank_venus_nobility_mini.jpg", "Nobility", false);
 
 		createBadge("AllianceRankVenusQuartz", "http://b3.ifrm.com/5920/164/0/f7000156/AllianceRankVenusQuartz.png", "Machinist", false);
 
-		createBadge("AllianceRankMars1", "http://b3.ifrm.com/5920/164/0/f7000144/AllianceRankMars1.png", "Kindred Ash", false);
-		createBadge("AllianceRankMars2", "http://b3.ifrm.com/5920/164/0/f7000145/AllianceRankMars2.png", "Flaming Crusader", false);
-		createBadge("AllianceRankMars3", "http://b3.ifrm.com/5920/164/0/f7000146/AllianceRankMars3.png", "Obsidian Warlord", false);
-		createBadge("AllianceRankMars4", "http://b3.ifrm.com/5920/164/0/f7000147/AllianceRankMars4.png", "Starfire Sentinel", false);
-		createBadge("AllianceRankMars5", "http://b3.ifrm.com/5920/164/0/f7000148/AllianceRankMars5.png", "Deus Inferno", false);
+		createBadge("AllianceRankMars1", "http://b3.ifrm.com/5920/164/0/f7000449/sunrise_clan_rank_mars_kindred_ash_mini.jpg", "Kindred Ash", false);
+		createBadge("AllianceRankMars2", "http://b3.ifrm.com/5920/164/0/f7000450/sunrise_clan_rank_mars_flaming_crusader_mini.jpg", "Flaming Crusader", false);
+		createBadge("AllianceRankMars3", "http://b3.ifrm.com/5920/164/0/f7000451/sunrise_clan_rank_mars_obsidian_warlord_mini.jpg", "Obsidian Warlord", false);
+		createBadge("AllianceRankMars4", "http://b3.ifrm.com/5920/164/0/f7000452/sunrise_clan_rank_mars_starfire_sentinel_mini.jpg", "Starfire Sentinel", false);
+		createBadge("AllianceRankMars5", "http://b3.ifrm.com/5920/164/0/f7000453/sunrise_clan_rank_mars_deus_inferno_mini.jpg	", "Deus Inferno", false);
 
 		createBadge("AllianceRankMarsCatman", "http://b3.ifrm.com/5920/164/0/f7000233/AllianceRankMarsCatman.png", "Catman", false);
 
-		createBadge("AllianceRankJupiter1", "http://b3.ifrm.com/5920/164/0/f7000138/AllianceRankJupiter1.png", "Scribe", false);
-		createBadge("AllianceRankJupiter2", "http://b3.ifrm.com/5920/164/0/f7000139/AllianceRankJupiter2.png", "Apprentice", false);
-		createBadge("AllianceRankJupiter3", "http://b3.ifrm.com/5920/164/0/f7000140/AllianceRankJupiter3.png", "Alchemist", false);
-		createBadge("AllianceRankJupiter4", "http://b3.ifrm.com/5920/164/0/f7000141/AllianceRankJupiter4.png", "Thaumaturge", false);
-		createBadge("AllianceRankJupiter5", "http://b3.ifrm.com/5920/164/0/f7000142/AllianceRankJupiter5.png", "Master", false);
+		createBadge("AllianceRankJupiter1", "http://b3.ifrm.com/5920/164/0/f7000443/sunrise_clan_rank_jupiter_scribe_mini.jpg", "Scribe", false);
+		createBadge("AllianceRankJupiter2", "http://b3.ifrm.com/5920/164/0/f7000444/sunrise_clan_rank_jupiter_apprentice_mini.jpg", "Apprentice", false);
+		createBadge("AllianceRankJupiter3", "http://b3.ifrm.com/5920/164/0/f7000445/sunrise_clan_rank_jupiter_alchemist_mini.jpg", "Alchemist", false);
+		createBadge("AllianceRankJupiter4", "http://b3.ifrm.com/5920/164/0/f7000447/sunrise_clan_rank_jupiter_thaumaturge_mini.jpg", "Thaumaturge", false);
+		createBadge("AllianceRankJupiter5", "http://b3.ifrm.com/5920/164/0/f7000454/sunrise_clan_rank_jupiter_master_mini.jpg", "Master", false);
 
 		createBadge("AllianceRankJupiterRolina","http://b3.ifrm.com/5920/164/0/f7000143/AllianceRankJupiterRolina.png", "Fulminous Witch", false);
 
-		createBadge("AllianceRankMercury1", "http://b3.ifrm.com/5920/164/0/f7000157/AllianceRankMercury1.png", "Acolyte", false);
-		createBadge("AllianceRankMercury2", "http://b3.ifrm.com/5920/164/0/f7000158/AllianceRankMercury2.png", "Cleric", false);
-		createBadge("AllianceRankMercury3", "http://b3.ifrm.com/5920/164/0/f7000159/AllianceRankMercury3.png", "Clergy", false);
-		createBadge("AllianceRankMercury4", "http://b3.ifrm.com/5920/164/0/f7000160/AllianceRankMercury4.png", "Angel", false);
-		createBadge("AllianceRankMercury5", "http://b3.ifrm.com/5920/164/0/f7000161/AllianceRankMercury5.png", "Archangel", false);
+		createBadge("AllianceRankMercury1", "http://b3.ifrm.com/5920/164/0/f7000438/sunrise_clan_rank_mercury_acolyte_mini.jpg", "Acolyte", false);
+		createBadge("AllianceRankMercury2", "http://b3.ifrm.com/5920/164/0/f7000439/sunrise_clan_rank_mercury_cleric_mini.jpg", "Cleric", false);
+		createBadge("AllianceRankMercury3", "http://b3.ifrm.com/5920/164/0/f7000440/sunrise_clan_rank_mercury_clergy_mini.jpg", "Clergy", false);
+		createBadge("AllianceRankMercury4", "http://b3.ifrm.com/5920/164/0/f7000441/sunrise_clan_rank_mercury_angel_mini.jpg", "Angel", false);
+		createBadge("AllianceRankMercury5", "http://b3.ifrm.com/5920/164/0/f7000442/sunrise_clan_rank_mercury_archangel_mini.jpg", "Archangel", false);
 
 		//Character badges. Order is Element, Fundament, Build, then Class. Class badges sorted alphabetically.
 
@@ -332,7 +329,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 
 		//C
 
-		addBadge("Catman", "StaffMars", "2016/12/03");
+		addBadge("Catman", "StaffAdmin", "2016/12/03");
 		addBadge("Catman", "AllianceRankMarsCatman", "2016/06/25");
 		addBadge("Catman", "CharacterElementMars", "2016/12/10");
 		addBadge("Catman", "CharacterFundamentSolar", "2016/12/10");
@@ -540,7 +537,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Nedben", "EventHalloween2016", "2016/10/31");
 		addBadge("Nedben", "EventDefender2016", "2016/12/03");
 
-		addBadge("Neshi", "StaffMercury", "2016/12/03");
+		addBadge("Neshi", "StaffAdmin", "2016/12/03");
 		addBadge("Neshi", "AllianceRankMercury4", "2016/12/16");
 		addBadge("Neshi", "CharacterElementMercury", "2016/12/10");
 		addBadge("Neshi", "CharacterFundamentStellar", "2016/12/10");
@@ -604,7 +601,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Reversal", "EventSanta2014", "2014/12/25");
 		addBadge("Reversal", "EventSanta2015", "2015/12/25");
 
-		addBadge("Robert Joe", "StaffUnaligned", "2016/12/03");
+		addBadge("Robert Joe", "StaffAdmin", "2016/12/03");
 		addBadge("Robert Joe", "CharacterElementJupiter", "2016/12/10");
 		addBadge("Robert Joe", "CharacterFundamentSolar", "2016/12/10");
 		addBadge("Robert Joe", "CharacterBuildWarrior", "2016/12/10");
@@ -662,7 +659,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Saucy Goblin", "EventSanta2016", "2016/12/25");
 		addBadge("Saucy Goblin", "EventDefender2016", "2016/12/03");
 
-		addBadge("Shadowfyst997", "StaffVenus", "2016/12/16");        
+		addBadge("Shadowfyst997", "StaffAdmin", "2016/12/16");        
 		addBadge("Shadowfyst997", "AllianceRankVenus4", "2016/06/26");
 		addBadge("Shadowfyst997", "CharacterElementVenus", "2016/12/10");
 		addBadge("Shadowfyst997", "CharacterFundamentStellar", "2016/12/10");
