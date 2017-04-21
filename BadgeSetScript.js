@@ -25,7 +25,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 
 		createBadge("AllianceRankVenus1", "http://b3.ifrm.com/5920/164/0/f7000431/sunrise_clan_rank_venus_initiate_mini.jpg", "Initiate", false);
 		createBadge("AllianceRankVenus2", "http://b3.ifrm.com/5920/164/0/f7000432/sunrise_clan_rank_venus_citizen_mini.jpg", "Citizen", false);
-		createBadge("AllianceRankVenus3", "http://b3.ifrm.com/5920/164/0/f7000152/AllianceRankVenus3.png", "Warrior", false);
+		createBadge("AllianceRankVenus3", "http://b3.ifrm.com/5920/164/0/f7000482/sunrise_clan_rank_venus_warrior_mini.jpg", "Warrior", false);
 		createBadge("AllianceRankVenus4", "http://b3.ifrm.com/5920/164/0/f7000435/sunrise_clan_rank_venus_elite_mini.jpg", "Elite", false);
 		createBadge("AllianceRankVenus5", "http://b3.ifrm.com/5920/164/0/f7000437/sunrise_clan_rank_venus_nobility_mini.jpg", "Nobility", false);
 
