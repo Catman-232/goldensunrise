@@ -52,7 +52,10 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		createBadge("AllianceRankMercury3", "http://b3.ifrm.com/5920/164/0/f7000440/sunrise_clan_rank_mercury_clergy_mini.jpg", "Clergy", false);
 		createBadge("AllianceRankMercury4", "http://b3.ifrm.com/5920/164/0/f7000441/sunrise_clan_rank_mercury_angel_mini.jpg", "Angel", false);
 		createBadge("AllianceRankMercury5", "http://b3.ifrm.com/5920/164/0/f7000442/sunrise_clan_rank_mercury_archangel_mini.jpg", "Archangel", false);
-
+		
+		//Element Adept and Element badges
+		
+		
 		//Character badges. Order is Element, Fundament, Build, then Class. Class badges sorted alphabetically.
 
 		createBadge("CharacterElementVenus", "http://b3.ifrm.com/5920/164/0/f7000162/CharacterElementVenus.png", "Venus Aligned", false);
