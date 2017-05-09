@@ -55,6 +55,16 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		
 		//Element Adept and Element badges
 		
+		createBadge("NonAdept", "http://b3.ifrm.com/5920/164/0/f7000495/sunrise_clan_banners_non_adept_mini.jpg", "Non Adept", false);
+		createBadge("VenusAdept", "http://b3.ifrm.com/5920/164/0/f7000472/sunrise_adept_banner_venus_mini.jpg", "Venus Adept", false);
+		createBadge("MarsAdept", "http://b3.ifrm.com/5920/164/0/f7000473/sunrise_adept_banner_mars_mini.jpg", "Administrator", false);
+		createBadge("JupiterAdept", "http://b3.ifrm.com/5920/164/0/f7000474/sunrise_adept_banner_jupiter_mini.jpg", "Administrator", false);
+		createBadge("MercuryAdept", "http://b3.ifrm.com/5920/164/0/f7000475/sunrise_adept_banner_mercury_mini.jpg", "Administrator", false);
+		createBadge("VenusElement", "http://b3.ifrm.com/5920/164/0/f7000426/sunrise_clan_banner_venus_final_mini.jpg", "Administrator", false);
+		createBadge("MarsElement", "http://b3.ifrm.com/5920/164/0/f7000429/sunrise_clan_banner_mars_final_mini.jpg", "Administrator", false);
+		createBadge("JupiterElement", "http://b3.ifrm.com/5920/164/0/f7000428/sunrise_clan_banner_jupiter_final_mini.jpg", "Administrator", false);
+		createBadge("MercuryAdept", "http://b3.ifrm.com/5920/164/0/f7000427/sunrise_clan_banner_mercury_final_mini.jpg", "Administrator", false);
+
 		
 		//Character badges. Order is Element, Fundament, Build, then Class. Class badges sorted alphabetically.
 
