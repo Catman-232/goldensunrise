@@ -1,5 +1,3 @@
-# goldensunrise
-
 To add a new badge to BadgeSetScript use this function:
 createBadge("StaffAdmin", "http://b3.ifrm.com/5920/164/0/f7000477/sunrise_clan_banners_administrator_mini.jpg", "Administrator", false);
 
