@@ -22,7 +22,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		//StaffOther
 
 		//Alliance badges. Sorted Venus, Mars, Jupiter, then Mercury. Sorted then by rank. Custom Ranks sorted alphabetically after Rank 5.
-
+		//Venus
 		createBadge("AllianceRankVenus1", "http://b3.ifrm.com/5920/164/0/f7000431/sunrise_clan_rank_venus_initiate_mini.jpg", "Initiate", false);
 		createBadge("AllianceRankVenus2", "http://b3.ifrm.com/5920/164/0/f7000432/sunrise_clan_rank_venus_citizen_mini.jpg", "Citizen", false);
 		createBadge("AllianceRankVenus3", "http://b3.ifrm.com/5920/164/0/f7000482/sunrise_clan_rank_venus_warrior_mini.jpg", "Warrior", false);
@@ -31,8 +31,8 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 
 		createBadge("AllianceRankVenusQuartz", "http://b3.ifrm.com/5920/164/0/f7000492/sunrise_clan_rank_venus_custom_machinist_mini.jpg", "Machinist", false);
 		createBadge("AllianceRankVenusShadow", "http://b3.ifrm.com/5920/164/0/f7000494/sunrise_clan_rank_venus_custom_earth_king_mini.jpg", "The Earth King", false);
-
 		
+		//Mars
 		createBadge("AllianceRankMars1", "http://b3.ifrm.com/5920/164/0/f7000449/sunrise_clan_rank_mars_kindred_ash_mini.jpg", "Kindred Ash", false);
 		createBadge("AllianceRankMars2", "http://b3.ifrm.com/5920/164/0/f7000450/sunrise_clan_rank_mars_flaming_crusader_mini.jpg", "Flaming Crusader", false);
 		createBadge("AllianceRankMars3", "http://b3.ifrm.com/5920/164/0/f7000451/sunrise_clan_rank_mars_obsidian_warlord_mini.jpg", "Obsidian Warlord", false);
@@ -40,7 +40,8 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		createBadge("AllianceRankMars5", "http://b3.ifrm.com/5920/164/0/f7000453/sunrise_clan_rank_mars_deus_inferno_mini.jpg	", "Deus Inferno", false);
 
 		createBadge("AllianceRankMarsCatman", "http://b3.ifrm.com/5920/164/0/f7000493/sunrise_clan_mars_rank_custom_premium_best_mini.jpg", "Premium Best", false);
-
+		
+		//Jupiter
 		createBadge("AllianceRankJupiter1", "http://b3.ifrm.com/5920/164/0/f7000443/sunrise_clan_rank_jupiter_scribe_mini.jpg", "Scribe", false);
 		createBadge("AllianceRankJupiter2", "http://b3.ifrm.com/5920/164/0/f7000444/sunrise_clan_rank_jupiter_apprentice_mini.jpg", "Apprentice", false);
 		createBadge("AllianceRankJupiter3", "http://b3.ifrm.com/5920/164/0/f7000445/sunrise_clan_rank_jupiter_alchemist_mini.jpg", "Alchemist", false);
@@ -49,7 +50,8 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 
 		createBadge("AllianceRankJupiterRolina","http://b3.ifrm.com/5920/164/0/f7000490/sunrise_clan_rank_jupiter_custom_fulminous_witch_mini.jpg", "Fulminous Witch", false);
 		createBadge("AllianceRankJupiterRolinaClanless","http://b3.ifrm.com/5920/164/0/f7000491/sunrise_clan_rank_clanless_custom_fulminous_witch_mini.jpg", "Fulminous Witch", false);
-
+		
+		//Mercury
 		createBadge("AllianceRankMercury1", "http://b3.ifrm.com/5920/164/0/f7000438/sunrise_clan_rank_mercury_acolyte_mini.jpg", "Acolyte", false);
 		createBadge("AllianceRankMercury2", "http://b3.ifrm.com/5920/164/0/f7000439/sunrise_clan_rank_mercury_cleric_mini.jpg", "Cleric", false);
 		createBadge("AllianceRankMercury3", "http://b3.ifrm.com/5920/164/0/f7000440/sunrise_clan_rank_mercury_clergy_mini.jpg", "Clergy", false);
@@ -66,7 +68,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		createBadge("VenusElement", "http://b3.ifrm.com/5920/164/0/f7000426/sunrise_clan_banner_venus_final_mini.jpg", "Venus", false);
 		createBadge("MarsElement", "http://b3.ifrm.com/5920/164/0/f7000429/sunrise_clan_banner_mars_final_mini.jpg", "Mars", false);
 		createBadge("JupiterElement", "http://b3.ifrm.com/5920/164/0/f7000428/sunrise_clan_banner_jupiter_final_mini.jpg", "Jupiter", false);
-		createBadge("MercuryAdept", "http://b3.ifrm.com/5920/164/0/f7000427/sunrise_clan_banner_mercury_final_mini.jpg", "Mercury", false);
+		createBadge("MercuryElement", "http://b3.ifrm.com/5920/164/0/f7000427/sunrise_clan_banner_mercury_final_mini.jpg", "Mercury", false);
 
 		
 		//Character badges. Order is Element, Fundament, Build, then Class. Class badges sorted alphabetically.
@@ -107,10 +109,10 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 
 		//Djinn Badges
 		
-		createBadge("VenusDjinn", "http://b3.ifrm.com/5920/164/0/f7000468/djinn_badge_venus.png", "Venus Djinn", false);
-		createBadge("MarsDjinn", "http://b3.ifrm.com/5920/164/0/f7000471/djinn_badge_mars.png", "Mars Djinn", false);
-		createBadge("JupiterDjinn", "http://b3.ifrm.com/5920/164/0/f7000470/djinn_badge_jupiter.png", "Jupiter Djinn", false);
-		createBadge("MercuryDjinn", "http://b3.ifrm.com/5920/164/0/f7000469/djinn_badge_mercury.png", "Mercury Djinn", false);
+		createBadge("VenusDjinn", "http://b3.ifrm.com/5920/164/0/f7000468/djinn_badge_venus.png", "Venus Djinn", true);
+		createBadge("MarsDjinn", "http://b3.ifrm.com/5920/164/0/f7000471/djinn_badge_mars.png", "Mars Djinn", true);
+		createBadge("JupiterDjinn", "http://b3.ifrm.com/5920/164/0/f7000470/djinn_badge_jupiter.png", "Jupiter Djinn", true);
+		createBadge("MercuryDjinn", "http://b3.ifrm.com/5920/164/0/f7000469/djinn_badge_mercury.png", "Mercury Djinn", true);
 		
 		//Activity badges. Based on Posts, then Recruitment, then Simple Creative, then Complex Creative
 		//Post based. Sorted:  Top Poster, Topic Maker, Seasonal Maker
