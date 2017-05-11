@@ -759,6 +759,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("WISHMASTER", "ClubDnDRound", "2016/06/11");
 		addBadge("WISHMASTER", "EventValentine2017", "2017/02/14");
 
+		addBadge("WitchRolina", "AllianceRankJupiterRolinaClanless", "2017/05/09");
 		addBadge("WitchRolina", "CharacterElementJupiter", "2016/12/10");
 		addBadge("WitchRolina", "CharacterFundamentLunar", "2016/12/10");
 		addBadge("WitchRolina", "CharacterBuildCaster", "2016/12/10");
