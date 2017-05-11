@@ -49,7 +49,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		createBadge("AllianceRankJupiter5", "http://b3.ifrm.com/5920/164/0/f7000454/sunrise_clan_rank_jupiter_master_mini.jpg", "Master", false);
 
 		createBadge("AllianceRankJupiterRolina","http://b3.ifrm.com/5920/164/0/f7000490/sunrise_clan_rank_jupiter_custom_fulminous_witch_mini.jpg", "Fulminous Witch", false);
-		createBadge("AllianceRankJupiterRolinaClanless","http://b3.ifrm.com/5920/164/0/f7000491/sunrise_clan_rank_clanless_custom_fulminous_witch_mini.jpg", "Fulminous Witch", false);
+		//createBadge("AllianceRankJupiterRolinaClanless","http://b3.ifrm.com/5920/164/0/f7000491/sunrise_clan_rank_clanless_custom_fulminous_witch_mini.jpg", "Fulminous Witch", false);
 		
 		//Mercury
 		createBadge("AllianceRankMercury1", "http://b3.ifrm.com/5920/164/0/f7000438/sunrise_clan_rank_mercury_acolyte_mini.jpg", "Acolyte", false);
