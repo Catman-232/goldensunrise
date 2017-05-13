@@ -58,6 +58,8 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		createBadge("AllianceRankMercury4", "http://b3.ifrm.com/5920/164/0/f7000441/sunrise_clan_rank_mercury_angel_mini.jpg", "Angel", false);
 		createBadge("AllianceRankMercury5", "http://b3.ifrm.com/5920/164/0/f7000442/sunrise_clan_rank_mercury_archangel_mini.jpg", "Archangel", false);
 		
+		createBadge("AllianceRankMercurySagie", "http://b3.ifrm.com/5920/164/0/f7000509/sunrise_clan_mars_rank_custom_herbalist_mini.jpg", "Herbalist", false);
+		
 		//Element Adept and Element badges
 		
 		createBadge("NonAdept", "http://b3.ifrm.com/5920/164/0/f7000495/sunrise_clan_banners_non_adept_mini.jpg", "Non Adept", false);
@@ -666,6 +668,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Sagie", "EventSanta2014", "2014/12/25");
 		addBadge("Sagie", "EventSanta2015", "2015/12/25");
 		addBadge("Sagie", "EventDefender2015", "2015/03/23");
+		addBadge("Sagie", "AllianceRankMercurySagie", "2015/05/13");
 
 		addBadge("Saturos", "StaffAmbassadorToK", "2016/12/12");
 
