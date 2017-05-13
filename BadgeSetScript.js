@@ -648,7 +648,6 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Safe Haven", "EventValentine2017", "2017/02/14");
 		addBadge("Safe Haven", "EventDefender2016", "2016/12/03");
 
-		addBadge("Sagie", "AllianceRankMercury5", "2016/06/25");
 		addBadge("Sagie", "CharacterElementVenus", "2016/12/10");
 		addBadge("Sagie", "CharacterFundamentLunar", "2016/12/10");
 		addBadge("Sagie", "CharacterBuildCaster", "2016/12/10");
@@ -668,7 +667,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Sagie", "EventSanta2014", "2014/12/25");
 		addBadge("Sagie", "EventSanta2015", "2015/12/25");
 		addBadge("Sagie", "EventDefender2015", "2015/03/23");
-		addBadge("Sagie", "AllianceRankMercurySagie", "2015/05/13");
+		addBadge("Sagie", "AllianceRankMercurySagie", "2017/05/13");
 
 		addBadge("Saturos", "StaffAmbassadorToK", "2016/12/12");
 
