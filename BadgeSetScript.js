@@ -71,6 +71,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		createBadge("MarsElement", "http://b3.ifrm.com/5920/164/0/f7000429/sunrise_clan_banner_mars_final_mini.jpg", "Mars", false);
 		createBadge("JupiterElement", "http://b3.ifrm.com/5920/164/0/f7000428/sunrise_clan_banner_jupiter_final_mini.jpg", "Jupiter", false);
 		createBadge("MercuryElement", "http://b3.ifrm.com/5920/164/0/f7000427/sunrise_clan_banner_mercury_final_mini.jpg", "Mercury", false);
+		createBadge("NoElement", "http://b3.ifrm.com/5920/164/0/f7000508/sunrise_clan_banners_no_element_mini.jpg", "No Element", false);
 
 		
 		//Character badges. Order is Element, Fundament, Build, then Class. Class badges sorted alphabetically.
@@ -209,8 +210,17 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		createBadge("ActivityMusician10", "http://b3.ifrm.com/5920/164/0/f7000201/ActivityMusician10.png", "Submitted 10 pieces of musical composition!", true);
 		createBadge("ActivityMusician15", "http://b3.ifrm.com/5920/164/0/f7000202/ActivityMusician15.png", "Submitted 15 pieces of musical composition!", true);
 
+		createBadge("ActivityGardening1", "http://b3.ifrm.com/5920/164/0/f7000467/gardening_club_badge.png", "Submitted a Gardening Entry!", true);
+
+		createBadge("ActivityCooking1", "http://b3.ifrm.com/5920/164/0/f7000466/cooking_club_badge.png", "Submitted a Cooking Entry!", true);
+
+		
 		//Complex Creative. Sorted Armsmith, Arcanist, Charagenesis
 
+		createBadge("ActivityCodexCreator", "http://b3.ifrm.com/5920/164/0/f7000496/character_creator_badge.png", "Created an item in the Codex!", true);
+
+		
+		
 		createBadge("ActivityArmsmith01", "http://b3.ifrm.com/5920/164/0/f7000183/ActivityArmsmith01.png", "Created a piece of equipment that was accepted into the archive!")
 		createBadge("ActivityArmsmith05", "http://b3.ifrm.com/5920/164/0/f7000184/ActivityArmsmith05.png", "Created 5 pieces of equipment that were accepted into the archive!", true);
 		createBadge("ActivityArmsmith10", "http://b3.ifrm.com/5920/164/0/f7000185/ActivityArmsmith10.png", "Created 10 pieces of equipment that were accepted into the archive!", true);
@@ -280,6 +290,9 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		createBadge("GameWerewolfWin", "http://b3.ifrm.com/5920/164/0/f7000067/GameWerewolfWin.png", "Werewolf Winner", true);
 		createBadge("GameWerewolfHost", "http://b3.ifrm.com/5920/164/0/f7000066/GameWerewolfHost.png", "Werewolf Host", true);
 
+		createBadge("GameBadArt", "http://b3.ifrm.com/5920/164/0/f7000505/bad_art_badge.png", "Bad Art Winner!", true);
+
+		
 		//Club badges. Sorted alphabetically
 
 		createBadge("ClubBadArtist", "http://z5.ifrm.com/5920/164/0/f5037123/ClubBadArtist.png", "Bad Artist Club Member", true);
@@ -532,6 +545,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Miva", "CharacterFundamentSolar", "2016/12/10");
 		addBadge("Miva", "CharacterBuildCaster", "2016/12/10");
 		addBadge("Miva", "CharacterClassMiva", "2016/12/10");
+		addBadge("Miva", "ActivityGardening1", "2017/05/13");
 		addBadge("Miva", "ActivityTopSilver", "2015/03/31");
 		addBadge("Miva", "ActivityTopicMaker125", "2016/09/19");
 		addBadge("Miva", "ActivityArtist05", "2016/08/20"); //9 Submissions
@@ -688,6 +702,8 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 
 		addBadge("Shadowfyst997", "StaffAdmin", "2016/12/16");        
 		addBadge("Shadowfyst997", "AllianceRankVenusShadow", "2017/05/09");
+		addBadge("Shadowfyst997", "VenusAdept", "2017/05/13");
+		addBadge("Shadowfyst997", "VenusDjinn", "2017/05/13");
 		addBadge("Shadowfyst997", "CharacterElementVenus", "2016/12/10");
 		addBadge("Shadowfyst997", "CharacterFundamentStellar", "2016/12/10");
 		addBadge("Shadowfyst997", "CharacterBuildCaster", "2016/12/10");
