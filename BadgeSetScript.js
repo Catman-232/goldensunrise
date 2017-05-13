@@ -73,7 +73,6 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		createBadge("MercuryElement", "http://b3.ifrm.com/5920/164/0/f7000427/sunrise_clan_banner_mercury_final_mini.jpg", "Mercury", false);
 		createBadge("NoElement", "http://b3.ifrm.com/5920/164/0/f7000508/sunrise_clan_banners_no_element_mini.jpg", "No Element", false);
 
-		
 		//Character badges. Order is Element, Fundament, Build, then Class. Class badges sorted alphabetically.
 
 		createBadge("CharacterElementVenus", "http://b3.ifrm.com/5920/164/0/f7000162/CharacterElementVenus.png", "Venus Aligned", false);
@@ -213,13 +212,10 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		createBadge("ActivityGardening1", "http://b3.ifrm.com/5920/164/0/f7000467/gardening_club_badge.png", "Submitted a Gardening Entry!", true);
 
 		createBadge("ActivityCooking1", "http://b3.ifrm.com/5920/164/0/f7000466/cooking_club_badge.png", "Submitted a Cooking Entry!", true);
-
 		
 		//Complex Creative. Sorted Armsmith, Arcanist, Charagenesis
 
 		createBadge("ActivityCodexCreator", "http://b3.ifrm.com/5920/164/0/f7000496/character_creator_badge.png", "Created an item in the Codex!", true);
-
-		
 		
 		createBadge("ActivityArmsmith01", "http://b3.ifrm.com/5920/164/0/f7000183/ActivityArmsmith01.png", "Created a piece of equipment that was accepted into the archive!")
 		createBadge("ActivityArmsmith05", "http://b3.ifrm.com/5920/164/0/f7000184/ActivityArmsmith05.png", "Created 5 pieces of equipment that were accepted into the archive!", true);
@@ -292,7 +288,6 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 
 		createBadge("GameBadArt", "http://b3.ifrm.com/5920/164/0/f7000505/bad_art_badge.png", "Bad Art Winner!", true);
 
-		
 		//Club badges. Sorted alphabetically
 
 		createBadge("ClubBadArtist", "http://z5.ifrm.com/5920/164/0/f5037123/ClubBadArtist.png", "Bad Artist Club Member", true);
@@ -371,10 +366,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 
 		addBadge("Catman", "StaffAdmin", "2016/12/03");
 		addBadge("Catman", "AllianceRankMarsCatman", "2016/06/25");
-		addBadge("Catman", "CharacterElementMars", "2016/12/10");
-		addBadge("Catman", "CharacterFundamentSolar", "2016/12/10");
-		addBadge("Catman", "CharacterBuildFreelancer", "2016/12/10");
-		addBadge("Catman", "CharacterClassCatman", "2016/12/10");
+		addBadge("Catman", "MarsElement", "2016/06/25");
 		addBadge("Catman", "ActivityTopSilver", "2015/06/20");
 		addBadge("Catman", "ActivityTopicMaker085", "2016/06/29");
 		addBadge("Catman", "ActivityArtist01", "2016/07/14"); //1 Submission
@@ -396,6 +388,11 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Catman", "EventSanta2016", "2016/12/25");
 		addBadge("Catman", "EventDefender2015", "2015/03/23");
 		addBadge("Catman", "EventDefender2016", "2016/12/03");
+		
+		addBadge("Catmanius James Fast Manius", "CharacterElementMars", "2016/12/10");
+		addBadge("Catmanius James Fast Manius", "CharacterFundamentSolar", "2016/12/10");
+		addBadge("Catmanius James Fast Manius", "CharacterBuildFreelancer", "2016/12/10");
+		addBadge("Catmanius James Fast Manius", "CharacterClassCatman", "2016/12/10");
 
 		addBadge("cipher", "ActivityTopGold", "2015/03/31");
 		addBadge("cipher", "ActivityTopicMaker010", "2015/03/27");
