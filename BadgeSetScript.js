@@ -208,6 +208,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		createBadge("ActivityMusician05", "http://b3.ifrm.com/5920/164/0/f7000200/ActivityMusician05.png", "Submitted 5 pieces of musical composition!", true);
 		createBadge("ActivityMusician10", "http://b3.ifrm.com/5920/164/0/f7000201/ActivityMusician10.png", "Submitted 10 pieces of musical composition!", true);
 		createBadge("ActivityMusician15", "http://b3.ifrm.com/5920/164/0/f7000202/ActivityMusician15.png", "Submitted 15 pieces of musical composition!", true);
+		createBadge("ActivityMusician20", "http://b3.ifrm.com/5920/164/0/f7000531/musician_badge_20.png", "Submitted 20 pieces of musical composition!", true);
 
 		createBadge("ActivityGardening1", "http://b3.ifrm.com/5920/164/0/f7000467/gardening_club_badge.png", "Submitted a Gardening Entry!", true);
 		createBadge("ActivityGardening05", "http://b3.ifrm.com/5920/164/0/f7000521/gardening_club_badge_5.png", "Submitted 5 Gardening Entries!", true);
@@ -230,6 +231,9 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		createBadge("ActivityCodexCreator20", "http://b3.ifrm.com/5920/164/0/f7000528/character_creator_badge_20.png", "Created 20 items in the Codex!", true);
 		
 		//Game badges. Sorted in order of game creation.
+		
+		
+		createBadge("PathOfOmnipotence", "http://b3.ifrm.com/5920/164/0/f7000537/PoO_RP_badge.png", "Path of Omnipotence Player.", true);
 
 		createBadge("GameCarcassonne", "http://z5.ifrm.com/5920/164/0/f5037294/GameCarcassonne.png", "Carcassonne Player", true);
 		createBadge("GameCarcassonneWin", "http://z5.ifrm.com/5920/164/0/f5037295/GameCarcassonneWin.png", "Carcassonne Winner", true);
@@ -269,7 +273,21 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		createBadge("GameWerewolfWin", "http://b3.ifrm.com/5920/164/0/f7000067/GameWerewolfWin.png", "Werewolf Winner", true);
 		createBadge("GameWerewolfHost", "http://b3.ifrm.com/5920/164/0/f7000066/GameWerewolfHost.png", "Werewolf Host", true);
 
+		createBadge("ImmortalCombatNormalPlayer", "http://b3.ifrm.com/5920/164/0/f7000540/immortal_combat_badge.png", "Won a normal Immortal Combat Tournament!", true);
+		createBadge("ImmortalCombatSpecialPlayer", "http://b3.ifrm.com/5920/164/0/f7000541/immortal_combat_special_badge.png", "Won a Special Immortal Combat Tournament!", true);
+		createBadge("ImmortalCombatSpecialHost", "http://b3.ifrm.com/5920/164/0/f7000066/GameWerewolfHost.png", "Won a Special Immortal Combat Tournament!", true);
+		createBadge("ImmortalCombatNormalHost", "http://b3.ifrm.com/5920/164/0/f7000066/GameWerewolfHost.png", "Won a Normal Immortal Combat Tournament!", true);
+		createBadge("ImmortalCombatNormalWinner", "http://b3.ifrm.com/5920/164/0/f7000540/immortal_combat_badge.png", "Won a normal Immortal Combat Tournament!", true)
+		createBadge("ImmortalCombatSpecialWinner", "http://b3.ifrm.com/5920/164/0/f7000540/immortal_combat_badge.png", "Won a normal Immortal Combat Tournament!", true)
+
 		createBadge("GameBadArt", "http://b3.ifrm.com/5920/164/0/f7000505/bad_art_badge.png", "Bad Art Winner!", true);
+		
+		createBadge("AllianceCompWinner01", "http://b3.ifrm.com/5920/164/0/f7000536/alliance_winner_badge.png", "Your Alliance has won a Competition!", true);
+		createBadge("AllianceCompWinner05", "http://b3.ifrm.com/5920/164/0/f7000532/alliance_winner_badge_5.png", "Your Alliance has won a Competition!", true);
+		createBadge("AllianceCompWinner10", "http://b3.ifrm.com/5920/164/0/f7000533/alliance_winner_badge_10.png", "Your Alliance has won a Competition!", true);
+		createBadge("AllianceCompWinner15", "http://b3.ifrm.com/5920/164/0/f7000534/alliance_winner_badge_15.png", "Your Alliance has won a Competition!", true);
+		createBadge("AllianceCompWinner20", "http://b3.ifrm.com/5920/164/0/f7000535/alliance_winner_badge_20.png", "Your Alliance has won a Competition!", true);
+
 
 		//Club badges. Sorted alphabetically
 
@@ -331,6 +349,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 
 		addBadge("Ashtoro", "ActivityTopBronze", "2015/07/14");
 		addBadge("Ashtoro", "ActivityTopicMaker005", "2015/03/05");
+		addBadge("Ashtoro", "ImmortalCombatNormalPlayer", "2017/05/28");
 		addBadge("Ashtoro", "GameCarcassonne", "2014/05/31");
 		addBadge("Ashtoro", "GamePandemic", "2014/07/15");
 		addBadge("Ashtoro", "GameRiskWin", "2014/09/12");
@@ -338,6 +357,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Ashtoro", "GameScrabbleWin", "2015/03/27");
 		addBadge("Ashtoro", "GameCatan", "2015/04/07");
 		addBadge("Ashtoro", "GameInfluence", "2015/04/16");
+		addBadge("Ashtoro", "GameBadArt", "2017/05/28"); //1 Win
 		addBadge("Ashtoro", "EventDefender2015", "2015/03/23");
 		addBadge("Ashtoro", "EventDefender2016", "2016/12/03");
 
@@ -354,14 +374,19 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Catman", "ActivityTopicMaker085", "2016/06/29");
 		addBadge("Catman", "ActivityArtist01", "2016/07/14"); //1 Submission
 		addBadge("Catman", "ActivityWriter01", "2016/08/20"); //2 Submissions
+		addBadge("Catman", "PathOfOmnipotence", "2017/05/28");
 		addBadge("Catman", "GamePandemic", "2014/07/15");
 		addBadge("Catman", "GameRisk", "2014/09/12");
 		addBadge("Catman", "GameMexStandHost", "2014/11/16");
 		addBadge("Catman", "GameClue", "2014/12/03");
 		addBadge("Catman", "GameInfluenceHost", "2015/04/16");
 		addBadge("Catman", "GameWerewolf", "2015/09/22");
-		addBadge("Catman", "ClubBadArtist", "2016/06/11");
-		addBadge("Catman", "ClubDnDRound", "2016/06/11");
+		addBadge("Catman", "ImmortalCombatSpecialWinner", "2017/05/28");
+		addBadge("Catman", "ImmortalCombatSpecialHost", "2017/05/28");
+		addBadge("Catman", "ImmortalCombatNormalHost", "2017/05/28");
+		addBadge("Catman", "GameBadArt", "2017/05/28"); //1 Win
+		//addBadge("Catman", "ClubBadArtist", "2016/06/11");
+		//addBadge("Catman", "ClubDnDRound", "2016/06/11");
 		addBadge("Catman", "EventValentine2017", "2017/02/14");
 		addBadge("Catman", "EventHalloween2014", "2014/10/31");
 		addBadge("Catman", "EventHalloween2015", "2015/10/31");
@@ -380,9 +405,11 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("cipher", "ActivityTopGold", "2015/03/31");
 		addBadge("cipher", "ActivityTopicMaker010", "2015/03/27");
 		addBadge("cipher", "ActivityCooking1", "2017/05/28"); // 1 submission
+		addBadge("Cipher", "ImmortalCombatNormalPlayer", "2017/05/28");
 		addBadge("cipher", "GameMexStand", "2016/07/11");
 		addBadge("cipher", "GameMachiKoro", "2014/05/31");
-		addBadge("cipher", "ClubBadArtist", "2016/06/11");
+		addBadge("Cipher", "GameBadArt", "2017/05/28");
+		//addBadge("cipher", "ClubBadArtist", "2016/06/11");
 		addBadge("cipher", "EventValentine2017", "2017/02/14");
 		addBadge("cipher", "EventHalloween2014", "2014/10/31");
 		addBadge("cipher", "EventHalloween2015", "2015/10/31");
@@ -405,7 +432,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Delfes", "CharacterBuildWarrior", "2016/12/10");
 		addBadge("Delfes", "CharacterClassDelfes", "2016/12/10");
 		addBadge("Delfes", "ActivityArtist01", "2016/07/30"); //2 Submissions
-		addBadge("Delfes", "ClubDnD", "2016/06/11");
+		//addBadge("Delfes", "ClubDnD", "2016/06/11");
 		addBadge("Delfes", "EventValentine2017", "2017/02/14");
 		addBadge("Delfes", "EventHalloween2016", "2016/10/31");
 		addBadge("Delfes", "EventDefender2016", "2016/12/03");
@@ -421,6 +448,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 
 		addBadge("Diego, the mentor", "ActivityTopBronze", "2016/07/01");
 		addBadge("Diego, the mentor", "GameClue", "2014/12/03");
+		addBadge("Diego", "GameBadArt", "2017/05/28");
 
 		addBadge("Diem", "ActivityTopicMaker010", "2014/06/19");
 		addBadge("Diem", "GameCarcassonne", "2014/05/31");
@@ -428,13 +456,6 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Diem", "EventHalloween2014", "2014/10/31");
 		addBadge("Diem", "EventSanta2014", "2014/12/25");
 		addBadge("Diem", "EventSanta2015", "2015/12/25");
-
-		addBadge("Dragomir", "ActivityTopicMaker010", "2015/07/05");
-		addBadge("Dragomir", "EventHalloween2014", "2014/10/31");
-		addBadge("Dragomir", "EventHalloween2015", "2015/10/31");
-		addBadge("Dragomir", "EventSanta2014", "2014/12/25");
-		addBadge("Dragomir", "EventSanta2015", "2015/12/25");
-		addBadge("Dragomir", "EventSanta2016", "2016/12/25");
 
 		//E
 
@@ -451,7 +472,9 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Frei Zheng", "CharacterBuildWarrior", "2016/12/19");
 		addBadge("Frei Zheng", "CharacterClassFrei", "2016/12/19");
 
-		addBadge("FrozenWrath", "ClubDnD", "2016/06/11");
+		//addBadge("FrozenWrath", "ClubDnD", "2016/06/11");
+		addBadge("FrozenWrath", "ImmortalCombatNormalPlayer", "2017/05/28");
+		addBadge("FrozenWrath", "PathOfOmnipotence", "2017/05/28");
 		addBadge("FrozenWrath", "EventSanta2014", "2014/12/25");
 		addBadge("FrozenWrath", "EventSanta2015", "2015/12/25");
 		addBadge("FrozenWrath", "EventDefender2015", "2015/03/23");
@@ -464,6 +487,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 
 		addBadge("Harly", "ActivityTopBronze", "2014/05/11");
 		addBadge("Harly", "ActivityTopicMaker020", "2016/06/29");
+		addBadge("Harly", "PathOfOmnipotence", "2017/05/28");
 		addBadge("Harly", "GamePandemicHost", "2014/07/15");
 		addBadge("Harly", "GameRisk", "2014/09/12");
 		addBadge("Harly", "GameMexStandWin", "2016/07/11");
@@ -472,8 +496,11 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Harly", "GameCatan", "2015/04/07");
 		addBadge("Harly", "GameInfluence", "2015/04/16");
 		addBadge("Harly", "GameWerewolfWin", "2015/09/22");
-		addBadge("Harly", "ClubBadArtist", "2016/06/11");
-		addBadge("Harly", "ClubDnD", "2016/06/11");
+		addBadge("Harly", "ImmortalCombatSpecialWinner", "2017/05/28");
+		addBadge("Harly", "ImmortalCombatNormalWinner", "2017/05/28");
+		addBadge("Harly", "GameBadArt", "2017/05/28");
+		//addBadge("Harly", "ClubBadArtist", "2016/06/11");
+		//addBadge("Harly", "ClubDnD", "2016/06/11");
 		addBadge("Harly", "EventHalloween2014", "2014/10/31");
 		addBadge("Harly", "EventSanta2014", "2014/12/25");
 		addBadge("Harly", "EventDefender2015", "2015/03/23");
@@ -491,6 +518,8 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("InquisitorEvelyn", "CharacterBuildCaster", "2016/12/10");
 		addBadge("InquisitorEvelyn", "CharacterClassEvelyn", "2016/12/10");
 
+		addBadge("Iridana", "ImmortalCombatNormalPlayer", "2017/05/28");
+		addBadge("Iridana", "PathOfOmnipotence", "2017/05/28");
 		addBadge("Iridana", "GameCarcassonne", "2014/05/31");
 		addBadge("Iridana", "GameCatan", "2015/04/07");
 		addBadge("Iridana", "EventHalloween2014", "2014/10/31");
@@ -507,7 +536,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("KnightOfPurgatory", "CharacterBuildWarrior", "2016/12/12");
 		addBadge("KnightOfPurgatory", "CharacterClassKoP", "2016/12/12");
 		addBadge("KnightOfPurgatory", "GameMexStand", "2016/07/11");
-		addBadge("KnightOfPurgatory", "ClubBadArtist", "2016/06/11");
+		//addBadge("KnightOfPurgatory", "ClubBadArtist", "2016/06/11");
 		addBadge("KnightOfPurgatory", "EventValentine2017", "2017/02/14");
 		addBadge("KnightOfPurgatory", "EventHalloween2016", "2016/10/31");
 		addBadge("KnightOfPurgatory", "EventDefender2016", "2016/12/03");
@@ -515,12 +544,21 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		//L
 
 		addBadge("Lord Earth", "ActivityTopBronze", "2016/06/26");
+		addBadge("Lord Earth", "GameBadArt", "2017/05/28"); //1 Win
 
 		//M
 
 		addBadge("Misery", "ActivityArtist01", "2016/07/30"); //2 Submissions
 		addBadge("Misery", "EventDefender2015", "2015/03/23");
 
+		addBadge("Mia", "ActivityTopicMaker010", "2015/07/05");
+		addBadge("Mia", "GameBadArt", "2017/05/28");
+		addBadge("Mia", "EventHalloween2014", "2014/10/31");
+		addBadge("Mia", "EventHalloween2015", "2015/10/31");
+		addBadge("Mia", "EventSanta2014", "2014/12/25");
+		addBadge("Mia", "EventSanta2015", "2015/12/25");
+		addBadge("Mia", "EventSanta2016", "2016/12/25");
+		
 		addBadge("Miva", "AllianceRankVenus5", "2016/06/27");
 		addBadge("Miva", "CharacterElementVenus", "2016/12/10");
 		addBadge("Miva", "CharacterFundamentSolar", "2016/12/10");
@@ -530,14 +568,16 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Miva", "ActivityTopSilver", "2015/03/31");
 		addBadge("Miva", "ActivityTopicMaker125", "2016/09/19");
 		addBadge("Miva", "ActivityArtist05", "2016/08/20"); //9 Submissions
+		addBadge("Miva", "ImmortalCombatNormalPlayer", "2017/05/28");
+		addBadge("Miva", "PathOfOmnipotence", "2017/05/28");
 		addBadge("Miva", "GameCarcassonneHost", "2014/05/31");
 		addBadge("Miva", "GameRiskHost", "2014/09/12");
 		addBadge("Miva", "GameClue", "2014/12/03");
 		addBadge("Miva", "GameScrabbleHost", "2015/03/27");
 		addBadge("Miva", "GameCatanWin", "2015/04/07");
 		addBadge("Miva", "GameMachiKoroHost", "2016/04/01");
-		addBadge("Miva", "ClubBadArtist", "2016/06/11");
-		addBadge("Miva", "ClubDnD", "2016/06/11");
+		//addBadge("Miva", "ClubBadArtist", "2016/06/11");
+		//addBadge("Miva", "ClubDnD", "2016/06/11");
 		addBadge("Miva", "EventValentine2017", "2017/02/14");
 		addBadge("Miva", "EventHalloween2014", "2014/10/31");
 		addBadge("Miva", "EventHalloween2015", "2015/10/31");
@@ -555,6 +595,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Nedben", "CharacterBuildCaster", "2016/12/10");
 		addBadge("Nedben", "CharacterClassNedben", "2016/12/10");
 		addBadge("Nedben", "ActivityWriter10", "2017/01/03"); //11 submissions
+		addBadge("Nedben", "AllianceCompWinner01", "2017/05/28");
 		addBadge("Nedben", "EventValentine2017", "2017/02/14");
 		addBadge("Nedben", "EventHalloween2016", "2016/10/31");
 		addBadge("Nedben", "EventDefender2016", "2016/12/03");
@@ -567,7 +608,8 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Neshi", "CharacterClassNeshi", "2016/12/10");
 		addBadge("Neshi", "ActivityTopicMaker040", "2015/08/21");
 		addBadge("Neshi", "ActivityArtist20", "2015/08/20"); //24 Submissions
-		addBadge("Neshi", "ClubBadArtist", "2016/06/11");
+		addBadge("Neshi", "GameBadArt", "2017/05/28");
+		//addBadge("Neshi", "ClubBadArtist", "2016/06/11");
 		addBadge("Neshi", "EventValentine2017", "2017/02/14");
 		addBadge("Neshi", "EventHalloween2014", "2014/10/31");
 		addBadge("Neshi", "EventHalloween2015", "2015/10/31");
@@ -579,6 +621,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Neshi", "EventDefender2016", "2016/12/03");
 
 		addBadge("Nikki", "ActivityTopicMaker010", "2015/03/23");
+		addBadge("Nikki", "PathOfOmnipotence", "2017/05/28");
 		addBadge("Nikki", "EventHalloween2014", "2014/10/31");
 		addBadge("Nikki", "EventHalloween2015", "2015/10/31");
 		addBadge("Nikki", "EventSanta2014", "2014/12/25");
@@ -586,25 +629,11 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Nikki", "EventDefender2015", "2015/03/23");
 
 		addBadge("Nostalgic Nerd", "ActivityTopicMaker010", "2015/01/15");
+		addBadge("Nostalgic Nerd", "ImmortalCombatNormalPlayer", "2017/05/28");
 
 		//O
 		
 		//P
-
-		addBadge("Violet Spinel", "AllianceRankVenusQuartz", "2016/12/12");
-		addBadge("Violet Spinel", "CharacterElementVenus", "2016/12/12");
-		addBadge("Violet Spinel", "CharacterFundamentSolar", "2016/12/12");
-		addBadge("Violet Spinel", "CharacterBuildCaster", "2016/12/12");
-		addBadge("Violet Spinel", "CharacterClassQuartz", "2016/12/10");
-		addBadge("Violet Spinel", "ActivityTopicMaker005", "2016/06/29");
-		addBadge("Violet Spinel", "ActivityArtist01", "2016/07/06"); //1 Submission
-		addBadge("Violet Spinel", "ActivityWriter01", "2016/08/20"); //2 Submissions
-		addBadge("Violet Spinel", "GameMexStand", "2016/07/11");
-		addBadge("Violet Spinel", "GameWerewolfWin", "2015/09/22");
-		addBadge("Violet Spinel", "ClubBadArtist", "2016/06/11");
-		addBadge("Violet Spinel", "ClubDnD", "2016/06/11");
-		addBadge("Violet Spinel", "EventHalloween2016", "2016/10/31");
-		addBadge("Violet Spinel", "EventDefender2016", "2016/12/03");
 
 		//Q
 		
@@ -618,6 +647,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 
 		addBadge("Reversal", "ActivityTopicMaker005", "2015/01/01");
 		addBadge("Reversal", "GameClue", "2014/12/03");
+		addBadge("Reversal", "GameBadArt", "2017/05/28");
 		addBadge("Reversal", "EventHalloween2014", "2014/10/31");
 		addBadge("Reversal", "EventHalloween2015", "2015/10/31");
 		addBadge("Reversal", "EventSanta2014", "2014/12/25");
@@ -628,7 +658,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Robert Joe", "CharacterFundamentSolar", "2016/12/10");
 		addBadge("Robert Joe", "CharacterBuildWarrior", "2016/12/10");
 		addBadge("Robert Joe", "CharacterClassRobertJoe", "2016/12/10");
-		addBadge("Robert Joe", "ClubDnDRound", "2016/06/11");
+		//addBadge("Robert Joe", "ClubDnDRound", "2016/06/11");
 		addBadge("Robert Joe", "EventDefender2016", "2016/12/03");
 
 		//S
@@ -639,7 +669,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Safe Haven", "CharacterBuildCaster", "2016/12/12");
 		addBadge("Safe Haven", "CharacterClassHaven", "2016/12/10");
 		addBadge("Safe Haven", "ActivityTopicMaker010", "2016/06/29");
-		addBadge("Safe Haven", "ClubBadArtist", "2016/06/11");
+		//addBadge("Safe Haven", "ClubBadArtist", "2016/06/11");
 		addBadge("Safe Haven", "EventValentine2017", "2017/02/14");
 		addBadge("Safe Haven", "EventDefender2016", "2016/12/03");
 
@@ -650,6 +680,8 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Sagie", "ActivityTopGold", "2014/09/18");
 		addBadge("Sagie", "ActivityTopicMaker140", "2016/06/29");
 		addBadge("Sagie", "ActivityCooking1", "2017/05/28"); // 3 submission
+		addBadge("Sagie", "ActivityGardening1", "2017/05/28"); //1 submission
+		addBadge("Sagie", "PathOfOmnipotence", "2017/05/28");
 		addBadge("Sagie", "GameCarcassonneWin", "2014/05/31");
 		addBadge("Sagie", "GamePandemic", "2014/07/15");
 		addBadge("Sagie", "GameClue", "2014/12/03");
@@ -657,7 +689,8 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Sagie", "GameCatanHost", "2015/04/07");
 		addBadge("Sagie", "GameMachiKoroWin", "2014/05/31");
 		addBadge("Sagie", "GameWerewolfWin", "2015/09/22");
-		addBadge("Sagie", "ClubBadArtist", "2016/06/11");
+		addBadge("Sagie", "GameBadArt", "2017/05/28");
+		//addBadge("Sagie", "ClubBadArtist", "2016/06/11");
 		addBadge("Sagie", "EventHalloween2014", "2014/10/31");
 		addBadge("Sagie", "EventHalloween2015", "2015/10/31");
 		addBadge("Sagie", "EventSanta2014", "2014/12/25");
@@ -675,8 +708,9 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Saucy Goblin", "ActivityArtist05", "2016/07/14"); //6 Submissions
 		addBadge("Saucy Goblin", "ActivityWriter01", "2016/07/14"); //1 Submission
 		addBadge("Saucy Goblin", "GameWerewolfWin", "2015/09/22");
-		addBadge("Saucy Goblin", "ClubBadArtist", "2016/06/11");
-		addBadge("Saucy Goblin", "ClubDnDRound", "2016/06/11");
+		addBadge("Saucy Goblin", "GameBadArt", "2017/05/28");
+		//addBadge("Saucy Goblin", "ClubBadArtist", "2016/06/11");
+		//addBadge("Saucy Goblin", "ClubDnDRound", "2016/06/11");
 		addBadge("Saucy Goblin", "EventValentine2017", "2017/02/14");
 		addBadge("Saucy Goblin", "EventHalloween2016", "2016/10/31");
 		addBadge("Saucy Goblin", "EventSanta2016", "2016/12/25");
@@ -699,8 +733,10 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Shadowfyst997", "GameScrabble", "2015/03/27");
 		addBadge("Shadowfyst997", "GameCatan", "2015/04/07");
 		addBadge("Shadowfyst997", "GameWerewolfHost", "2015/09/22");
-		addBadge("Shadowfyst997", "ClubDnDHost", "2016/06/11");
-		addBadge("Shadowfyst997", "ClubDnDRound", "2016/06/11");
+		addBadge("Shadowfyst997", "ImmortalCombatSpecialWinner", "2017/05/28");
+		addBadge("Shadowfyst997", "ImmortalCombatNormalWinner", "2017/05/28");
+		//addBadge("Shadowfyst997", "ClubDnDHost", "2016/06/11");
+		//addBadge("Shadowfyst997", "ClubDnDRound", "2016/06/11");
 		addBadge("Shadowfyst997", "EventHalloween2014", "2014/10/31");
 		addBadge("Shadowfyst997", "EventHalloween2015", "2015/10/31");
 		addBadge("Shadowfyst997", "EventHalloween2016", "2016/10/31");
@@ -720,8 +756,8 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("td260", "EventDefender2015", "2015/03/23");
 		
 		addBadge("TiamaJaybird", "ActivityCooking10", "2017/05/28"); // 11 submissions
-		addBadge("TiamaJaybird", "ClubBadArtist", "2016/07/03");
-		addBadge("TiamaJaybird", "ClubDnD", "2016/07/03");
+		//addBadge("TiamaJaybird", "ClubBadArtist", "2016/07/03");
+		//addBadge("TiamaJaybird", "ClubDnD", "2016/07/03");
 		addBadge("TiamaJaybird", "EventHalloween2016", "2016/10/31");
 
 		addBadge("Tichondrian", "AllianceRankMercury4", "2016/06/26");
@@ -737,11 +773,28 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 
 		addBadge("Tinfect", "StaffAmbassadorAU", "2016/12/12");
 
+		addBadge("TK", "PathOfOmnipotence", "2017/05/28");
 		addBadge("TK", "EventDefender2015", "2015/03/23");
 
 		//U
 		
 		//V
+		
+		addBadge("Violet Spinel", "AllianceRankVenusQuartz", "2016/12/12");
+		addBadge("Violet Spinel", "CharacterElementVenus", "2016/12/12");
+		addBadge("Violet Spinel", "CharacterFundamentSolar", "2016/12/12");
+		addBadge("Violet Spinel", "CharacterBuildCaster", "2016/12/12");
+		addBadge("Violet Spinel", "CharacterClassQuartz", "2016/12/10");
+		addBadge("Violet Spinel", "ActivityTopicMaker005", "2016/06/29");
+		addBadge("Violet Spinel", "ActivityMusician10", "2017/05/28"); //10 submissions
+		addBadge("Violet Spinel", "ActivityArtist01", "2016/07/06"); //1 Submission
+		addBadge("Violet Spinel", "ActivityWriter01", "2016/08/20"); //2 Submissions
+		addBadge("Violet Spinel", "GameMexStand", "2016/07/11");
+		addBadge("Violet Spinel", "GameWerewolfWin", "2015/09/22");
+		//addBadge("Violet Spinel", "ClubBadArtist", "2016/06/11");
+		//addBadge("Violet Spinel", "ClubDnD", "2016/06/11");
+		addBadge("Violet Spinel", "EventHalloween2016", "2016/10/31");
+		addBadge("Violet Spinel", "EventDefender2016", "2016/12/03");
 		
 		//W
 
@@ -757,7 +810,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("WISHMASTER", "CharacterFundamentStellar", "2016/12/10");
 		addBadge("WISHMASTER", "CharacterBuildFreelancer", "2016/12/10");
 		addBadge("WISHMASTER", "CharacterClassWishmaster", "2016/12/10");
-		addBadge("WISHMASTER", "ClubDnDRound", "2016/06/11");
+		//addBadge("WISHMASTER", "ClubDnDRound", "2016/06/11");
 		addBadge("WISHMASTER", "EventValentine2017", "2017/02/14");
 
 		//addBadge("WitchRolina", "AllianceRankJupiterRolinaClanless", "2017/05/09");
@@ -765,6 +818,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("WitchRolina", "CharacterFundamentLunar", "2016/12/10");
 		addBadge("WitchRolina", "CharacterBuildCaster", "2016/12/10");
 		addBadge("WitchRolina", "CharacterClassRolina", "2016/12/10");
+		addBadge("WitchRolina", "PathOfOmnipotence", "2017/05/28");
 		addBadge("WitchRolina", "ActivityTopicMaker010", "2015/06/18");
 		addBadge("WitchRolina", "ActivityArtist01", "2016/10/07"); //1 Submission
 		addBadge("WitchRolina", "ActivityWriter05", "2015/06/18"); //8 Submissions
@@ -781,12 +835,14 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		//X
 
 		addBadge("XxLTxX", "GameMachiKoro", "2014/05/31");
+		addBadge("XxLTxX", "GameBadArt", "2017/05/28");
 
 		//Y
 		
 		//Z
 
 		addBadge("Zeige", "ActivityTopicMaker005", "2015/08/22");
+		addBadge("Zeige", "GameBadArt", "2017/05/28");
 
 		addBadge("ZFallen", "StaffAmbassadorGSL", "2017/01/01");
 	}
