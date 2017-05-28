@@ -210,42 +210,25 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		createBadge("ActivityMusician15", "http://b3.ifrm.com/5920/164/0/f7000202/ActivityMusician15.png", "Submitted 15 pieces of musical composition!", true);
 
 		createBadge("ActivityGardening1", "http://b3.ifrm.com/5920/164/0/f7000467/gardening_club_badge.png", "Submitted a Gardening Entry!", true);
+		createBadge("ActivityGardening05", "http://b3.ifrm.com/5920/164/0/f7000521/gardening_club_badge_5.png", "Submitted 5 Gardening Entries!", true);
+		createBadge("ActivityGardening10", "http://b3.ifrm.com/5920/164/0/f7000522/gardening_club_badge_10.png", "Submitted 10 Gardening Entries!", true);
+		createBadge("ActivityGardening15", "http://b3.ifrm.com/5920/164/0/f7000523/gardening_club_badge_15.png", "Submitted 15 Gardening Entries!", true);
+		createBadge("ActivityGardening20", "http://b3.ifrm.com/5920/164/0/f7000524/gardening_club_badge_20.png", "Submitted 10 Gardening Entries!", true);
 
 		createBadge("ActivityCooking1", "http://b3.ifrm.com/5920/164/0/f7000466/cooking_club_badge.png", "Submitted a Cooking Entry!", true);
+		createBadge("ActivityCooking5", "http://b3.ifrm.com/5920/164/0/f7000517/cooking_club_badge_5.png", "Submitted 5 Cooking Entries!", true);
+		createBadge("ActivityCooking10", "http://b3.ifrm.com/5920/164/0/f7000518/cooking_club_badge_10.png", "Submitted 10 Cooking Entries!", true);
+		createBadge("ActivityCooking15", "http://b3.ifrm.com/5920/164/0/f7000519/cooking_club_badge_15.png", "Submitted 15 Cooking Entries!", true);
+		createBadge("ActivityCooking20", "http://b3.ifrm.com/5920/164/0/f7000520/cooking_club_badge_20.png", "Submitted 20 Cooking Entries!", true);
 		
-		//Complex Creative. Sorted Armsmith, Arcanist, Charagenesis
+		//Codex submission badges
 
-		createBadge("ActivityCodexCreator", "http://b3.ifrm.com/5920/164/0/f7000496/character_creator_badge.png", "Created an item in the Codex!", true);
+		createBadge("ActivityCodexCreator1", "http://b3.ifrm.com/5920/164/0/f7000496/character_creator_badge.png", "Created an item in the Codex!", true);
+		createBadge("ActivityCodexCreator05", "http://b3.ifrm.com/5920/164/0/f7000525/character_creator_badge_5.png", "Created 5 items in the Codex!", true);
+		createBadge("ActivityCodexCreator10", "http://b3.ifrm.com/5920/164/0/f7000526/character_creator_badge_10.png", "Created 10 items in the Codex!", true);
+		createBadge("ActivityCodexCreator15", "http://b3.ifrm.com/5920/164/0/f7000527/character_creator_badge_15.png", "Created 15 items in the Codex!", true);
+		createBadge("ActivityCodexCreator20", "http://b3.ifrm.com/5920/164/0/f7000528/character_creator_badge_20.png", "Created 20 items in the Codex!", true);
 		
-		createBadge("ActivityArmsmith01", "http://b3.ifrm.com/5920/164/0/f7000183/ActivityArmsmith01.png", "Created a piece of equipment that was accepted into the archive!")
-		createBadge("ActivityArmsmith05", "http://b3.ifrm.com/5920/164/0/f7000184/ActivityArmsmith05.png", "Created 5 pieces of equipment that were accepted into the archive!", true);
-		createBadge("ActivityArmsmith10", "http://b3.ifrm.com/5920/164/0/f7000185/ActivityArmsmith10.png", "Created 10 pieces of equipment that were accepted into the archive!", true);
-		createBadge("ActivityArmsmith15", "http://b3.ifrm.com/5920/164/0/f7000186/ActivityArmsmith15.png", "Created 15 pieces of equipment that were accepted into the archive!", true);
-		createBadge("ActivityArmsmith20", "http://b3.ifrm.com/5920/164/0/f7000187/ActivityArmsmith20.png", "Created 20 pieces of equipment that were accepted into the archive!", true);
-		createBadge("ActivityArmsmith25", "http://b3.ifrm.com/5920/164/0/f7000188/ActivityArmsmith25.png", "Created 25 pieces of equipment that were accepted into the archive!", true);
-		createBadge("ActivityArmsmith30", "http://b3.ifrm.com/5920/164/0/f7000190/ActivityArmsmith30.png", "Created 30 pieces of equipment that were accepted into the archive!", true);
-		createBadge("ActivityArmsmith35", "http://b3.ifrm.com/5920/164/0/f7000191/ActivityArmsmith35.png", "Created 35 pieces of equipment that were accepted into the archive!", true);
-		createBadge("ActivityArmsmith40", "http://b3.ifrm.com/5920/164/0/f7000192/ActivityArmsmith40.png", "Created 40 pieces of equipment that were accepted into the archive!", true);
-		createBadge("ActivityArmsmith45", "http://b3.ifrm.com/5920/164/0/f7000193/ActivityArmsmith45.png", "Created 45 pieces of equipment that were accepted into the archive!", true);
-		createBadge("ActivityArmsmith50", "http://b3.ifrm.com/5920/164/0/f7000194/ActivityArmsmith50.png", "Created 50 pieces of equipment that were accepted into the archive!", true);
-
-		createBadge("ActivityArcanist01", "http://b3.ifrm.com/5920/164/0/f7000172/ActivityArcanist01.png", "Created a spell set that was accepted into the archive!", true);
-		createBadge("ActivityArcanist05", "http://b3.ifrm.com/5920/164/0/f7000173/ActivityArcanist05.png", "Created 5 spell sets that were accepted into the archive!", true);
-		createBadge("ActivityArcanist10", "http://b3.ifrm.com/5920/164/0/f7000174/ActivityArcanist10.png", "Created 10 spell sets that were accepted into the archive!", true);
-		createBadge("ActivityArcanist15", "http://b3.ifrm.com/5920/164/0/f7000175/ActivityArcanist15.png", "Created 15 spell sets that were accepted into the archive!", true);
-		createBadge("ActivityArcanist20", "http://b3.ifrm.com/5920/164/0/f7000176/ActivityArcanist20.png", "Created 20 spell sets that were accepted into the archive!", true);
-		createBadge("ActivityArcanist25", "http://b3.ifrm.com/5920/164/0/f7000177/ActivityArcanist25.png", "Created 25 spell sets that were accepted into the archive!", true);
-		createBadge("ActivityArcanist30", "http://b3.ifrm.com/5920/164/0/f7000178/ActivityArcanist30.png", "Created 30 spell sets that were accepted into the archive!", true);
-		createBadge("ActivityArcanist35", "http://b3.ifrm.com/5920/164/0/f7000179/ActivityArcanist35.png", "Created 35 spell sets that were accepted into the archive!", true);
-		createBadge("ActivityArcanist40", "http://b3.ifrm.com/5920/164/0/f7000180/ActivityArcanist40.png", "Created 40 spell sets that were accepted into the archive!", true);
-		createBadge("ActivityArcanist45", "http://b3.ifrm.com/5920/164/0/f7000181/ActivityArcanist45.png", "Created 45 spell sets that were accepted into the archive!", true);
-		createBadge("ActivityArcanist50", "http://b3.ifrm.com/5920/164/0/f7000182/ActivityArcanist50.png", "Created 50 spell sets that were accepted into the archive!", true);
-
-		createBadge("ActivityCharagenesis01", "http://b3.ifrm.com/5920/164/0/f7000195/ActivityCharagenesis01.png", "Created a fully fleshed out character in the Adept's Codex!", true);
-		createBadge("ActivityCharagenesis05", "http://b3.ifrm.com/5920/164/0/f7000196/ActivityCharagenesis05.png", "Created 5 fully fleshed out characters in the Adept's Codex!", true);
-		createBadge("ActivityCharagenesis10", "http://b3.ifrm.com/5920/164/0/f7000197/ActivityCharagenesis10.png", "Created 10 fully fleshed out characters in the Adept's Codex!", true);
-		createBadge("ActivityCharagenesis15", "http://b3.ifrm.com/5920/164/0/f7000198/ActivityCharagenesis15.png", "Created 15 fully fleshed out characters in the Adept's Codex!", true);   
-
 		//Game badges. Sorted in order of game creation.
 
 		createBadge("GameCarcassonne", "http://z5.ifrm.com/5920/164/0/f5037294/GameCarcassonne.png", "Carcassonne Player", true);
@@ -259,7 +242,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		createBadge("GameRiskWin", "http://z5.ifrm.com/5920/164/0/f5037288/GameRiskWin.png", "Weyard Risk Winner", true);
 		createBadge("GameRiskHost", "http://z5.ifrm.com/5920/164/0/f5037287/GameRiskHost.png", "Weyard Risk Host", true);
 
-		createBadge("GameMexStand", " 	http://z5.ifrm.com/5920/164/0/f5037280/GameMexStand.png", "Mexican Standoff Player", true);
+		createBadge("GameMexStand", "http://z5.ifrm.com/5920/164/0/f5037280/GameMexStand.png", "Mexican Standoff Player", true);
 		createBadge("GameMexStandWin", "http://z5.ifrm.com/5920/164/0/f5037282/GameMexStandWin.png", "Mexican Standoff Winner", true);
 		createBadge("GameMexStandHost", "http://z5.ifrm.com/5920/164/0/f5037281/GameMexStandHost.png", "Mexican Standoff Host", true);
 
@@ -396,6 +379,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 
 		addBadge("cipher", "ActivityTopGold", "2015/03/31");
 		addBadge("cipher", "ActivityTopicMaker010", "2015/03/27");
+		addBadge("cipher", "ActivityCooking1", "2017/05/28"); // 1 submission
 		addBadge("cipher", "GameMexStand", "2016/07/11");
 		addBadge("cipher", "GameMachiKoro", "2014/05/31");
 		addBadge("cipher", "ClubBadArtist", "2016/06/11");
@@ -665,6 +649,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Sagie", "CharacterClassSagie", "2016/12/10");
 		addBadge("Sagie", "ActivityTopGold", "2014/09/18");
 		addBadge("Sagie", "ActivityTopicMaker140", "2016/06/29");
+		addBadge("Sagie", "ActivityCooking1", "2017/05/28"); // 3 submission
 		addBadge("Sagie", "GameCarcassonneWin", "2014/05/31");
 		addBadge("Sagie", "GamePandemic", "2014/07/15");
 		addBadge("Sagie", "GameClue", "2014/12/03");
@@ -733,7 +718,8 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("td260", "EventSanta2014", "2014/12/25");
 		addBadge("td260", "EventSanta2015", "2015/12/25");
 		addBadge("td260", "EventDefender2015", "2015/03/23");
-
+		
+		addBadge("TiamaJaybird", "ActivityCooking10", "2017/05/28"); // 11 submissions
 		addBadge("TiamaJaybird", "ClubBadArtist", "2016/07/03");
 		addBadge("TiamaJaybird", "ClubDnD", "2016/07/03");
 		addBadge("TiamaJaybird", "EventHalloween2016", "2016/10/31");
