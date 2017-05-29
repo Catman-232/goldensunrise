@@ -275,9 +275,9 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 
 		createBadge("ImmortalCombatNormalPlayer", "http://b3.ifrm.com/5920/164/0/f7000540/immortal_combat_badge.png", "Played In a normal Immortal Combat Tournament!", true);
 		createBadge("ImmortalCombatSpecialPlayer", "http://b3.ifrm.com/5920/164/0/f7000541/immortal_combat_special_badge.png", "Played in a Special Immortal Combat Tournament!", true);
-		createBadge("ImmortalCombatSpecialHost", "http://b3.ifrm.com/5920/164/0/f7000543/immortal_combat_special_host_badge.png", "Hosted a Special Immortal Combat Tournament!", true);
 		createBadge("ImmortalCombatNormalHost", "http://b3.ifrm.com/5920/164/0/f7000542/immortal_combat_host_badge.png", "Hosted a Normal Immortal Combat Tournament!", true);
-		createBadge("ImmortalCombatNormalWinner", "http://b3.ifrm.com/5920/164/0/f7000540/immortal_combat_badge.png", "Won a normal Immortal Combat Tournament!", true)
+		createBadge("ImmortalCombatSpecialHost", "http://b3.ifrm.com/5920/164/0/f7000543/immortal_combat_special_host_badge.png", "Hosted a Special Immortal Combat Tournament!", true);
+		createBadge("ImmortalCombatNormalWinner", "http://b3.ifrm.com/5920/164/0/f7000544/immortal_combat_winner_badge.png", "Won a normal Immortal Combat Tournament!", true)
 		createBadge("ImmortalCombatSpecialWinner", "http://b3.ifrm.com/5920/164/0/f7000545/immortal_combat_special_winner_badge.png", "Won a Special Immortal Combat Tournament!", true)
 
 		createBadge("GameBadArt", "http://b3.ifrm.com/5920/164/0/f7000505/bad_art_badge.png", "Bad Art Winner!", true);
