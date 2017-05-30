@@ -281,6 +281,8 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		createBadge("ImmortalCombatSpecialWinner", "http://b3.ifrm.com/5920/164/0/f7000545/immortal_combat_special_winner_badge.png", "Won a Special Immortal Combat Tournament!", true)
 
 		createBadge("GameBadArt", "http://b3.ifrm.com/5920/164/0/f7000505/bad_art_badge.png", "Bad Art Winner!", true);
+		//createBadge("GameBadArtHost", "http://b3.ifrm.com/5920/164/0/f7000547/badarthost.png", "Bad Art Host", true);
+		//createBadge("GameBadArtWin", "http://b3.ifrm.com/5920/164/0/f7000546/badartwinner.png", "Bad Art Winner", true);
 		
 		createBadge("AllianceCompWinner01", "http://b3.ifrm.com/5920/164/0/f7000536/alliance_winner_badge.png", "Your Team has won a Competition!", true);
 		createBadge("AllianceCompWinner05", "http://b3.ifrm.com/5920/164/0/f7000532/alliance_winner_badge_5.png", "Your Team has won a Competition!", true);
