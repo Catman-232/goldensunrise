@@ -233,7 +233,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		//Game badges. Sorted in order of game creation.
 		
 		
-		createBadge("PathOfOmnipotence", "http://b3.ifrm.com/5920/164/0/f7000537/PoO_RP_badge.png", "Path of Omnipotence RolePlayer.", true);
+		createBadge("PathOfOmnipotence", "http://b3.ifrm.com/5920/164/0/f7000537/PoO_RP_badge.png", "Path of Omnipotence Roleplayer.", true);
 
 		createBadge("GameCarcassonne", "http://z5.ifrm.com/5920/164/0/f5037294/GameCarcassonne.png", "Carcassonne Player", true);
 		createBadge("GameCarcassonneWin", "http://z5.ifrm.com/5920/164/0/f5037295/GameCarcassonneWin.png", "Carcassonne Winner", true);
