@@ -667,10 +667,12 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		//S
 
 		addBadge("Safe Haven", "AllianceRankMercury3", "2016/12/12");
+		addBadge("Safe Haven", "JupiterAdept", "2017/06/09");
 		addBadge("Safe Haven", "CharacterElementJupiter", "2016/12/12");
 		addBadge("Safe Haven", "CharacterFundamentSolar", "2016/12/12");
 		addBadge("Safe Haven", "CharacterBuildCaster", "2016/12/12");
 		addBadge("Safe Haven", "CharacterClassHaven", "2016/12/10");
+		addBadge("Safe Haven", "JupiterDjinn", "2017/06/09");
 		addBadge("Safe Haven", "ActivityTopicMaker010", "2016/06/29");
 		//addBadge("Safe Haven", "ClubBadArtist", "2016/06/11");
 		addBadge("Safe Haven", "EventValentine2017", "2017/02/14");
