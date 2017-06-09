@@ -340,6 +340,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Artisan", "ActivityTopicMaker005", "2015/03/23");
 		addBadge("Artisan", "ActivityArtist01", "2016/11/17"); //1 Submission
 		addBadge("Artisan", "ActivityWriter01", "2016/10/30"); //1 Submission
+		addBadge("Artisan", "EventValentine2017", "2017/06/09");
 		addBadge("Artisan", "EventHalloween2014", "2014/10/31");
 		addBadge("Artisan", "EventHalloween2015", "2015/10/31");
 		addBadge("Artisan", "EventHalloween2016", "2016/10/31");
