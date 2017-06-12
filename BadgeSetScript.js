@@ -576,6 +576,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Miva", "CharacterFundamentSolar", "2016/12/10");
 		addBadge("Miva", "CharacterBuildCaster", "2016/12/10");
 		addBadge("Miva", "CharacterClassMiva", "2016/12/10");
+		addBadge("Miva", "JupiterDjinn", "2017/06/12");
 		addBadge("Miva", "ActivityGardening1", "2017/05/13");
 		addBadge("Miva", "ActivityTopSilver", "2015/03/31");
 		addBadge("Miva", "ActivityTopicMaker125", "2016/09/19");
