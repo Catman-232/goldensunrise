@@ -31,6 +31,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 
 		createBadge("AllianceRankVenusQuartz", "http://b3.ifrm.com/5920/164/0/f7000492/sunrise_clan_rank_venus_custom_machinist_mini.jpg", "Machinist", false);
 		createBadge("AllianceRankVenusShadow", "http://b3.ifrm.com/5920/164/0/f7000494/sunrise_clan_rank_venus_custom_earth_king_mini.jpg", "The Earth King", false);
+		createBadge("AllianceRankVenusMiva", "http://b3.ifrm.com/5920/164/0/f7000556/sunrise_clan_rank_venus_custom_dwarven_scholar_mini.jpg", "Dwarven Scholar", false);
 		
 		//Mars
 		createBadge("AllianceRankMars1", "http://b3.ifrm.com/5920/164/0/f7000449/sunrise_clan_rank_mars_kindred_ash_mini.jpg", "Kindred Ash", false);
@@ -273,6 +274,10 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		createBadge("GameWerewolfWin", "http://b3.ifrm.com/5920/164/0/f7000067/GameWerewolfWin.png", "Werewolf Winner", true);
 		createBadge("GameWerewolfHost", "http://b3.ifrm.com/5920/164/0/f7000066/GameWerewolfHost.png", "Werewolf Host", true);
 
+		createBadge("GameDungeonCrawl", "http://b3.ifrm.com/5920/164/0/f7000557/dungeon_crawl_badge.png", "Dungeon Crawl Player", true);
+		createBadge("GameDungeonCrawlWin", "http://b3.ifrm.com/5920/164/0/f7000559/dungeon_crawl_winner_badge.png", "Dungeon Crawl Winner", true);
+		createBadge("GameDungeonCrawlHost", "http://b3.ifrm.com/5920/164/0/f7000558/dungeon_crawl_host_badge.png", "Dungeon Crawl Host", true);
+		
 		createBadge("ImmortalCombatNormalPlayer", "http://b3.ifrm.com/5920/164/0/f7000540/immortal_combat_badge.png", "Played In a normal Immortal Combat Tournament!", true);
 		createBadge("ImmortalCombatSpecialPlayer", "http://b3.ifrm.com/5920/164/0/f7000541/immortal_combat_special_badge.png", "Played in a Special Immortal Combat Tournament!", true);
 		createBadge("ImmortalCombatNormalHost", "http://b3.ifrm.com/5920/164/0/f7000542/immortal_combat_host_badge.png", "Hosted a Normal Immortal Combat Tournament!", true);
@@ -352,6 +357,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 
 		addBadge("Ashtoro", "ActivityTopBronze", "2015/07/14");
 		addBadge("Ashtoro", "ActivityTopicMaker005", "2015/03/05");
+		addBadge("Ashtoro", "GameDungeonCrawl", "2017/06/12");
 		addBadge("Ashtoro", "ImmortalCombatNormalPlayer", "2017/05/28");
 		addBadge("Ashtoro", "GameCarcassonne", "2014/05/31");
 		addBadge("Ashtoro", "GamePandemic", "2014/07/15");
@@ -554,6 +560,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		//M
 
 		addBadge("Misery", "ActivityArtist01", "2016/07/30"); //2 Submissions
+		addBadge("Misery", "GameDungeonCrawl", "2017/06/12");
 		addBadge("Misery", "EventDefender2015", "2015/03/23");
 
 		addBadge("Mia", "ActivityTopicMaker010", "2015/07/05");
@@ -564,7 +571,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Mia", "EventSanta2015", "2015/12/25");
 		addBadge("Mia", "EventSanta2016", "2016/12/25");
 		
-		addBadge("Miva", "AllianceRankVenus5", "2016/06/27");
+		addBadge("Miva", "AllianceRankVenusMiva", "2017/06/12");
 		addBadge("Miva", "CharacterElementVenus", "2016/12/10");
 		addBadge("Miva", "CharacterFundamentSolar", "2016/12/10");
 		addBadge("Miva", "CharacterBuildCaster", "2016/12/10");
@@ -575,6 +582,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Miva", "ActivityArtist05", "2016/08/20"); //9 Submissions
 		addBadge("Miva", "PathOfOmnipotence", "2017/05/28");
 		addBadge("Miva", "ImmortalCombatNormalPlayer", "2017/05/28");
+		addBadge("Miva", "GameDungeonCrawlHost", "2017/06/12");
 		addBadge("Miva", "GameCarcassonneHost", "2014/05/31");
 		addBadge("Miva", "GameRiskHost", "2014/09/12");
 		addBadge("Miva", "GameClue", "2014/12/03");
@@ -733,6 +741,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Shadowfyst997", "CharacterClassShadowfyst", "2016/12/10");
 		addBadge("Shadowfyst997", "ActivityTopicMaker010", "2017/06/09");
 		addBadge("Shadowfyst997", "ActivityWriter01", "2016/10/30"); //1 Submission
+		addBadge("Shadowfyst997", "GameDungeonCrawl", "2017/06/12");
 		addBadge("Shadowfyst997", "GamePandemic", "2014/07/15");
 		addBadge("Shadowfyst997", "GameRisk", "2014/09/12");
 		addBadge("Shadowfyst997", "GameMexStand", "2016/07/11");
