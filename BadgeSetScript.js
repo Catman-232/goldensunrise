@@ -441,10 +441,12 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Delfes", "CharacterBuildWarrior", "2016/12/10");
 		addBadge("Delfes", "CharacterClassDelfes", "2016/12/10");
 		addBadge("Delfes", "ActivityArtist01", "2016/07/30"); //2 Submissions
+		addBadge("Delfes", "ActivityWriter01", "2017/06/14"); //1 Submissions
 		//addBadge("Delfes", "ClubDnD", "2016/06/11");
 		addBadge("Delfes", "EventValentine2017", "2017/02/14");
 		addBadge("Delfes", "EventHalloween2016", "2016/10/31");
 		addBadge("Delfes", "EventDefender2016", "2016/12/03");
+		addBadge("Delfes", "EventSanta2016", "2017/06/14");
 
 		addBadge("DeltanTD", "AllianceRankMars1", "2016/06/25");
 		addBadge("DeltanTD", "CharacterElementVenus", "2016/12/10");
@@ -583,6 +585,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Miva", "ActivityArtist05", "2016/08/20"); //9 Submissions
 		addBadge("Miva", "PathOfOmnipotence", "2017/05/28");
 		addBadge("Miva", "ImmortalCombatNormalPlayer", "2017/05/28");
+		addBadge("Miva", "GameBadArt", "2017/06/14"); //1 Win
 		addBadge("Miva", "GameDungeonCrawlHost", "2017/06/12");
 		addBadge("Miva", "GameCarcassonneHost", "2014/05/31");
 		addBadge("Miva", "GameRiskHost", "2014/09/12");
@@ -620,8 +623,10 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Neshi", "CharacterFundamentStellar", "2016/12/10");
 		addBadge("Neshi", "CharacterBuildWarrior", "2016/12/10");
 		addBadge("Neshi", "CharacterClassNeshi", "2016/12/10");
+		addBadge("Neshi", "VenusDjinn", "2017/06/14");
 		addBadge("Neshi", "ActivityTopicMaker040", "2015/08/21");
-		addBadge("Neshi", "ActivityArtist20", "2015/08/20"); //24 Submissions
+		addBadge("Neshi", "ActivityArtist25", "2017/06/14"); //25 Submissions
+		addBadge("Neshi", "ActivityMusician01", "2017/06/14"); //1 Submissions
 		addBadge("Neshi", "GameBadArt", "2017/05/28");
 		//addBadge("Neshi", "ClubBadArtist", "2016/06/11");
 		addBadge("Neshi", "EventValentine2017", "2017/02/14");
