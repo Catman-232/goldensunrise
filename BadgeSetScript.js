@@ -440,8 +440,9 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Delfes", "CharacterFundamentLunar", "2016/12/10");
 		addBadge("Delfes", "CharacterBuildWarrior", "2016/12/10");
 		addBadge("Delfes", "CharacterClassDelfes", "2016/12/10");
-		addBadge("Delfes", "ActivityArtist01", "2016/07/30"); //2 Submissions
-		addBadge("Delfes", "ActivityWriter01", "2017/06/14"); //1 Submissions
+		addBadge("Delfes", "ActivityArtist01", "2016/07/30"); //3 Submissions
+		addBadge("Delfes", "ActivityWriter01", "2017/06/14"); //2 Submissions
+		addBadge("Delfes", "ActivityCodexCreator1", "2017/07/18"); //2 Submissions
 		//addBadge("Delfes", "ClubDnD", "2016/06/11");
 		addBadge("Delfes", "EventValentine2017", "2017/02/14");
 		addBadge("Delfes", "EventHalloween2016", "2016/10/31");
