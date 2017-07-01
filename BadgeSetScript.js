@@ -691,6 +691,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Safe Haven", "CharacterClassHaven", "2016/12/10");
 		addBadge("Safe Haven", "JupiterDjinn", "2017/06/09");
 		addBadge("Safe Haven", "ActivityTopicMaker010", "2016/06/29");
+		addBadge("Safe Haven", "ActivityWriter05", "2017/07/01");
 		//addBadge("Safe Haven", "ClubBadArtist", "2016/06/11");
 		addBadge("Safe Haven", "EventValentine2017", "2017/02/14");
 		addBadge("Safe Haven", "EventDefender2016", "2016/12/03");
