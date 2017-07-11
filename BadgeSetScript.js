@@ -393,7 +393,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Catman", "ImmortalCombatNormalHost", "2017/05/28");
 		addBadge("Catman", "ImmortalCombatSpecialHost", "2017/05/28");
 		addBadge("Catman", "ImmortalCombatSpecialWinner", "2017/05/28");
-		addBadge("Catman", "GameBadArt", "2017/05/28"); //1 Win
+		addBadge("Catman", "GameBadArt", "2017/05/28"); //2 Win
 		//addBadge("Catman", "ClubBadArtist", "2016/06/11");
 		//addBadge("Catman", "ClubDnDRound", "2016/06/11");
 		addBadge("Catman", "EventValentine2017", "2017/02/14");
