@@ -627,7 +627,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Neshi", "CharacterClassNeshi", "2016/12/10");
 		addBadge("Neshi", "VenusDjinn", "2017/06/14");
 		addBadge("Neshi", "ActivityTopicMaker040", "2015/08/21");
-		addBadge("Neshi", "ActivityArtist25", "2017/06/14"); //26 Submissions
+		addBadge("Neshi", "ActivityArtist25", "2017/06/14"); //27 Submissions
 		addBadge("Neshi", "ActivityMusician01", "2017/06/14"); //1 Submissions
 		addBadge("Neshi", "GameBadArt", "2017/05/28");
 		//addBadge("Neshi", "ClubBadArtist", "2016/06/11");
