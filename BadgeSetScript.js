@@ -225,7 +225,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		
 		//Codex submission badges
 
-		createBadge("ActivityCodexCreator1", "http://b3.ifrm.com/5920/164/0/f7000496/character_creator_badge.png", "Created an item in the Codex!", true);
+		createBadge("ActivityCodexCreator01", "http://b3.ifrm.com/5920/164/0/f7000496/character_creator_badge.png", "Created an item in the Codex!", true);
 		createBadge("ActivityCodexCreator05", "http://b3.ifrm.com/5920/164/0/f7000525/character_creator_badge_5.png", "Created 5 items in the Codex!", true);
 		createBadge("ActivityCodexCreator10", "http://b3.ifrm.com/5920/164/0/f7000526/character_creator_badge_10.png", "Created 10 items in the Codex!", true);
 		createBadge("ActivityCodexCreator15", "http://b3.ifrm.com/5920/164/0/f7000527/character_creator_badge_15.png", "Created 15 items in the Codex!", true);
