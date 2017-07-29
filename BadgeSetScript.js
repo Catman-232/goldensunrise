@@ -302,7 +302,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		createBadge("ClubDnD", "http://z5.ifrm.com/5920/164/0/f5037124/ClubDnD.png", "Tabletop Gamers Member", true);
 		createBadge("ClubDnDHost", "http://z5.ifrm.com/5920/164/0/f5037125/ClubDnDHost.png", "Tabletop Gamers DM", true);
 		createBadge("ClubDnDRound", "http://b3.ifrm.com/5920/164/0/f7000399/ClubDnDRound.png", "Tabletop Gamers Round Robin player", true);
-		// createBadge("ClubPokeLeague", "http://z5.ifrm.com/5920/164/0/f5037126/ClubPokeLeague.png", "Alba League Participant", true);
+		//createBadge("ClubPokeLeague", "http://z5.ifrm.com/5920/164/0/f5037126/ClubPokeLeague.png", "Alba League Participant", true);
 		//createBadge("ClubPokeLeagueAH", "http://z5.ifrm.com/5920/164/0/f5037154/ClubPokeLeagueAHHost.png", "Autumn Highlands Gym Leader", true);
 		//createBadge("ClubPokeLeagueSC", "http://z5.ifrm.com/5920/164/0/f5037127/ClubPokeLeagueSCHost.png", "Spring Coast Gym Leader", true);
 		//createBadge("ClubPokeLeagueSV", "http://z5.ifrm.com/5920/164/0/f5037128/ClubPokeLeagueSVHost.png", "Summer Valley Gym Leader", true);
@@ -732,7 +732,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Saucy Goblin", "CharacterClassGoblin", "2016/12/10");
 		addBadge("Saucy Goblin", "ActivityCodexCreator01", "2017/07/29"); //2 Submissions
 		addBadge("Saucy Goblin", "ActivityArtist05", "2016/07/14"); //8 Submissions
-		addBadge("Saucy Goblin", "ActivityWriter01", "2016/07/14"); //3 Submission
+		addBadge("Saucy Goblin", "ActivityWriter01", "2016/07/14"); //2 Submission
 		addBadge("Saucy Goblin", "GameWerewolfWin", "2015/09/22");
 		addBadge("Saucy Goblin", "GameBadArt", "2017/05/28");
 		//addBadge("Saucy Goblin", "ClubBadArtist", "2016/06/11");
