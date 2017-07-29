@@ -302,7 +302,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		createBadge("ClubDnD", "http://z5.ifrm.com/5920/164/0/f5037124/ClubDnD.png", "Tabletop Gamers Member", true);
 		createBadge("ClubDnDHost", "http://z5.ifrm.com/5920/164/0/f5037125/ClubDnDHost.png", "Tabletop Gamers DM", true);
 		createBadge("ClubDnDRound", "http://b3.ifrm.com/5920/164/0/f7000399/ClubDnDRound.png", "Tabletop Gamers Round Robin player", true);
-		//createBadge("ClubPokeLeague", "http://z5.ifrm.com/5920/164/0/f5037126/ClubPokeLeague.png", "Alba League Participant", true);
+		// createBadge("ClubPokeLeague", "http://z5.ifrm.com/5920/164/0/f5037126/ClubPokeLeague.png", "Alba League Participant", true);
 		//createBadge("ClubPokeLeagueAH", "http://z5.ifrm.com/5920/164/0/f5037154/ClubPokeLeagueAHHost.png", "Autumn Highlands Gym Leader", true);
 		//createBadge("ClubPokeLeagueSC", "http://z5.ifrm.com/5920/164/0/f5037127/ClubPokeLeagueSCHost.png", "Spring Coast Gym Leader", true);
 		//createBadge("ClubPokeLeagueSV", "http://z5.ifrm.com/5920/164/0/f5037128/ClubPokeLeagueSVHost.png", "Summer Valley Gym Leader", true);
