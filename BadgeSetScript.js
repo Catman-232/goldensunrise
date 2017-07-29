@@ -211,21 +211,21 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		createBadge("ActivityMusician15", "http://b3.ifrm.com/5920/164/0/f7000202/ActivityMusician15.png", "Submitted 15 pieces of musical composition!", true);
 		createBadge("ActivityMusician20", "http://b3.ifrm.com/5920/164/0/f7000531/musician_badge_20.png", "Submitted 20 pieces of musical composition!", true);
 
-		createBadge("ActivityGardening1", "http://b3.ifrm.com/5920/164/0/f7000467/gardening_club_badge.png", "Submitted a Gardening Entry!", true);
+		createBadge("ActivityGardening01", "http://b3.ifrm.com/5920/164/0/f7000467/gardening_club_badge.png", "Submitted a Gardening Entry!", true);
 		createBadge("ActivityGardening05", "http://b3.ifrm.com/5920/164/0/f7000521/gardening_club_badge_5.png", "Submitted 5 Gardening Entries!", true);
 		createBadge("ActivityGardening10", "http://b3.ifrm.com/5920/164/0/f7000522/gardening_club_badge_10.png", "Submitted 10 Gardening Entries!", true);
 		createBadge("ActivityGardening15", "http://b3.ifrm.com/5920/164/0/f7000523/gardening_club_badge_15.png", "Submitted 15 Gardening Entries!", true);
 		createBadge("ActivityGardening20", "http://b3.ifrm.com/5920/164/0/f7000524/gardening_club_badge_20.png", "Submitted 10 Gardening Entries!", true);
 
-		createBadge("ActivityCooking1", "http://b3.ifrm.com/5920/164/0/f7000466/cooking_club_badge.png", "Submitted a Cooking Entry!", true);
-		createBadge("ActivityCooking5", "http://b3.ifrm.com/5920/164/0/f7000517/cooking_club_badge_5.png", "Submitted 5 Cooking Entries!", true);
+		createBadge("ActivityCooking01", "http://b3.ifrm.com/5920/164/0/f7000466/cooking_club_badge.png", "Submitted a Cooking Entry!", true);
+		createBadge("ActivityCooking05", "http://b3.ifrm.com/5920/164/0/f7000517/cooking_club_badge_5.png", "Submitted 5 Cooking Entries!", true);
 		createBadge("ActivityCooking10", "http://b3.ifrm.com/5920/164/0/f7000518/cooking_club_badge_10.png", "Submitted 10 Cooking Entries!", true);
 		createBadge("ActivityCooking15", "http://b3.ifrm.com/5920/164/0/f7000519/cooking_club_badge_15.png", "Submitted 15 Cooking Entries!", true);
 		createBadge("ActivityCooking20", "http://b3.ifrm.com/5920/164/0/f7000520/cooking_club_badge_20.png", "Submitted 20 Cooking Entries!", true);
 		
 		//Codex submission badges
 
-		createBadge("ActivityCodexCreator1", "http://b3.ifrm.com/5920/164/0/f7000496/character_creator_badge.png", "Created an item in the Codex!", true);
+		createBadge("ActivityCodexCreator01", "http://b3.ifrm.com/5920/164/0/f7000496/character_creator_badge.png", "Created an item in the Codex!", true);
 		createBadge("ActivityCodexCreator05", "http://b3.ifrm.com/5920/164/0/f7000525/character_creator_badge_5.png", "Created 5 items in the Codex!", true);
 		createBadge("ActivityCodexCreator10", "http://b3.ifrm.com/5920/164/0/f7000526/character_creator_badge_10.png", "Created 10 items in the Codex!", true);
 		createBadge("ActivityCodexCreator15", "http://b3.ifrm.com/5920/164/0/f7000527/character_creator_badge_15.png", "Created 15 items in the Codex!", true);
@@ -381,6 +381,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Catman", "MarsElement", "2016/06/25");
 		addBadge("Catman", "ActivityTopSilver", "2015/06/20");
 		addBadge("Catman", "ActivityTopicMaker085", "2016/06/29");
+		addBadge("Catman", "ActivityCodexCreator01", "2017/07/29"); //2 Submissions
 		addBadge("Catman", "ActivityArtist01", "2016/07/14"); //1 Submission
 		addBadge("Catman", "ActivityWriter01", "2016/08/20"); //2 Submissions
 		addBadge("Catman", "PathOfOmnipotence", "2017/05/28");
@@ -442,7 +443,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Delfes", "CharacterClassDelfes", "2016/12/10");
 		addBadge("Delfes", "ActivityArtist01", "2016/07/30"); //3 Submissions
 		addBadge("Delfes", "ActivityWriter01", "2017/06/14"); //2 Submissions
-		addBadge("Delfes", "ActivityCodexCreator1", "2017/07/18"); //2 Submissions
+		addBadge("Delfes", "ActivityCodexCreator01", "2017/07/18"); //2 Submissions
 		//addBadge("Delfes", "ClubDnD", "2016/06/11");
 		addBadge("Delfes", "EventValentine2017", "2017/02/14");
 		addBadge("Delfes", "EventHalloween2016", "2016/10/31");
@@ -580,7 +581,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Miva", "CharacterBuildCaster", "2016/12/10");
 		addBadge("Miva", "CharacterClassMiva", "2016/12/10");
 		addBadge("Miva", "JupiterDjinn", "2017/06/12");
-		addBadge("Miva", "ActivityGardening1", "2017/05/13");
+		addBadge("Miva", "ActivityGardening01", "2017/05/13");
 		addBadge("Miva", "ActivityTopSilver", "2015/03/31");
 		addBadge("Miva", "ActivityTopicMaker125", "2016/09/19");
 		addBadge("Miva", "ActivityArtist05", "2016/08/20"); //9 Submissions
@@ -703,8 +704,8 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Sagie", "CharacterClassSagie", "2016/12/10");
 		addBadge("Sagie", "ActivityTopGold", "2014/09/18");
 		addBadge("Sagie", "ActivityTopicMaker140", "2016/06/29");
-		addBadge("Sagie", "ActivityCooking1", "2017/05/28"); // 3 submission
-		addBadge("Sagie", "ActivityGardening1", "2017/05/28"); //1 submission
+		addBadge("Sagie", "ActivityCooking01", "2017/05/28"); // 3 submission
+		addBadge("Sagie", "ActivityGardening01", "2017/05/28"); //1 submission
 		addBadge("Sagie", "PathOfOmnipotence", "2017/05/28");
 		addBadge("Sagie", "GameCarcassonneWin", "2014/05/31");
 		addBadge("Sagie", "GamePandemic", "2014/07/15");
@@ -729,6 +730,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Saucy Goblin", "CharacterFundamentSolar", "2016/12/10");
 		addBadge("Saucy Goblin", "CharacterBuildCaster", "2016/12/10");
 		addBadge("Saucy Goblin", "CharacterClassGoblin", "2016/12/10");
+		addBadge("Saucy Goblin", "ActivityCodexCreator01", "2017/07/29"); //2 Submissions
 		addBadge("Saucy Goblin", "ActivityArtist05", "2016/07/14"); //8 Submissions
 		addBadge("Saucy Goblin", "ActivityWriter01", "2016/07/14"); //3 Submission
 		addBadge("Saucy Goblin", "GameWerewolfWin", "2015/09/22");
