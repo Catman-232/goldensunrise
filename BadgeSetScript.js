@@ -414,11 +414,11 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 
 		addBadge("cipher", "ActivityTopGold", "2015/03/31");
 		addBadge("cipher", "ActivityTopicMaker010", "2015/03/27");
-		addBadge("cipher", "ActivityCooking1", "2017/05/28"); // 1 submission
+		addBadge("cipher", "ActivityCooking01", "2017/05/28"); // 1 submission
 		addBadge("Cipher", "ImmortalCombatNormalPlayer", "2017/05/28");
 		addBadge("cipher", "GameMexStand", "2016/07/11");
 		addBadge("cipher", "GameMachiKoro", "2014/05/31");
-		addBadge("Cipher", "GameBadArt", "2017/05/28");
+		addBadge("cipher", "GameBadArt", "2017/05/28");
 		//addBadge("cipher", "ClubBadArtist", "2016/06/11");
 		addBadge("cipher", "EventValentine2017", "2017/02/14");
 		addBadge("cipher", "EventHalloween2014", "2014/10/31");
