@@ -381,6 +381,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Catman", "MarsElement", "2016/06/25");
 		addBadge("Catman", "ActivityTopSilver", "2015/06/20");
 		addBadge("Catman", "ActivityTopicMaker085", "2016/06/29");
+		addBadge("Catman", "ActivityCodexCreator01", "2017/07/29"); //2 Submissions
 		addBadge("Catman", "ActivityArtist01", "2016/07/14"); //1 Submission
 		addBadge("Catman", "ActivityWriter01", "2016/08/20"); //2 Submissions
 		addBadge("Catman", "PathOfOmnipotence", "2017/05/28");
@@ -627,7 +628,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Neshi", "CharacterClassNeshi", "2016/12/10");
 		addBadge("Neshi", "VenusDjinn", "2017/06/14");
 		addBadge("Neshi", "ActivityTopicMaker040", "2015/08/21");
-		addBadge("Neshi", "ActivityArtist25", "2017/06/14"); //27 Submissions
+		addBadge("Neshi", "ActivityArtist25", "2017/06/14"); //29 Submissions
 		addBadge("Neshi", "ActivityMusician01", "2017/06/14"); //1 Submissions
 		addBadge("Neshi", "GameBadArt", "2017/05/28");
 		//addBadge("Neshi", "ClubBadArtist", "2016/06/11");
@@ -729,8 +730,9 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Saucy Goblin", "CharacterFundamentSolar", "2016/12/10");
 		addBadge("Saucy Goblin", "CharacterBuildCaster", "2016/12/10");
 		addBadge("Saucy Goblin", "CharacterClassGoblin", "2016/12/10");
-		addBadge("Saucy Goblin", "ActivityArtist05", "2016/07/14"); //6 Submissions
-		addBadge("Saucy Goblin", "ActivityWriter01", "2016/07/14"); //1 Submission
+		addBadge("Saucy Goblin", "ActivityCodexCreator01", "2017/07/29"); //2 Submissions
+		addBadge("Saucy Goblin", "ActivityArtist05", "2016/07/14"); //8 Submissions
+		addBadge("Saucy Goblin", "ActivityWriter01", "2016/07/14"); //3 Submission
 		addBadge("Saucy Goblin", "GameWerewolfWin", "2015/09/22");
 		addBadge("Saucy Goblin", "GameBadArt", "2017/05/28");
 		//addBadge("Saucy Goblin", "ClubBadArtist", "2016/06/11");
