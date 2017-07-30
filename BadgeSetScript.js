@@ -751,7 +751,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Shadowfyst997", "CharacterBuildCaster", "2016/12/10");
 		addBadge("Shadowfyst997", "CharacterClassShadowfyst", "2016/12/10");
 		addBadge("Shadowfyst997", "ActivityTopicMaker010", "2017/06/09");
-		addBadge("Shadowfyst997", "ActivityWriter01", "2016/10/30"); //1 Submission
+		addBadge("Shadowfyst997", "ActivityWriter01", "2016/10/30"); //3 Submission
 		addBadge("Shadowfyst997", "GameDungeonCrawl", "2017/06/12");
 		addBadge("Shadowfyst997", "GamePandemic", "2014/07/15");
 		addBadge("Shadowfyst997", "GameRisk", "2014/09/12");
