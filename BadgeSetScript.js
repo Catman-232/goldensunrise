@@ -696,6 +696,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Safe Haven", "ActivityTopicMaker010", "2016/06/29");
 		addBadge("Safe Haven", "ActivityCodexCreator01", "2017/07/29"); //2 Submissions
 		addBadge("Safe Haven", "ActivityArtist01", "2017/06/14"); //3 Submissions
+		addBadge("Safe Haven", "ActivityMusician01", "2017/07/30"); //1 Submissions
 		addBadge("Safe Haven", "ActivityWriter05", "2017/07/01");
 		//addBadge("Safe Haven", "ClubBadArtist", "2016/06/11");
 		addBadge("Safe Haven", "EventValentine2017", "2017/02/14");
@@ -730,12 +731,13 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 
 		addBadge("Saucy Goblin", "AllianceRankMars2", "2016/06/26");
 		addBadge("Saucy Goblin", "CharacterElementJupiter", "2016/12/10");
+		addBadge("Saucy Goblin", "JupiterAdept", "2017/07/30");
 		addBadge("Saucy Goblin", "CharacterFundamentSolar", "2016/12/10");
 		addBadge("Saucy Goblin", "CharacterBuildCaster", "2016/12/10");
 		addBadge("Saucy Goblin", "CharacterClassGoblin", "2016/12/10");
 		addBadge("Saucy Goblin", "ActivityCodexCreator01", "2017/07/29"); //2 Submissions
 		addBadge("Saucy Goblin", "ActivityArtist05", "2016/07/14"); //8 Submissions
-		addBadge("Saucy Goblin", "ActivityMusician01", "2017/07/30"); //1 Submissions
+		addBadge("Saucy Goblin", "ActivityMusician01", "2017/07/30"); //2 Submissions
 		addBadge("Saucy Goblin", "ActivityWriter01", "2016/07/14"); //3 Submission
 		addBadge("Saucy Goblin", "GameWerewolfWin", "2015/09/22");
 		addBadge("Saucy Goblin", "GameBadArt", "2017/05/28");
@@ -754,7 +756,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Shadowfyst997", "CharacterFundamentStellar", "2016/12/10");
 		addBadge("Shadowfyst997", "CharacterBuildCaster", "2016/12/10");
 		addBadge("Shadowfyst997", "CharacterClassShadowfyst", "2016/12/10");
-		addBadge("Shadowfyst997", "ActivityCodexCreator01", "2017/07/30"); //1 Submissions
+		addBadge("Shadowfyst997", "ActivityCodexCreator01", "2017/07/30"); //2 Submissions
 		addBadge("Shadowfyst997", "ActivityTopicMaker010", "2017/06/09");
 		addBadge("Shadowfyst997", "ActivityWriter01", "2016/10/30"); //3 Submission
 		addBadge("Shadowfyst997", "GameDungeonCrawl", "2017/06/12");
