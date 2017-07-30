@@ -382,7 +382,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Catman", "ActivityTopSilver", "2015/06/20");
 		addBadge("Catman", "ActivityTopicMaker085", "2016/06/29");
 		addBadge("Catman", "ActivityCodexCreator01", "2017/07/29"); //2 Submissions
-		addBadge("Catman", "ActivityArtist01", "2016/07/14"); //1 Submission
+		addBadge("Catman", "ActivityArtist01", "2016/07/14"); //2 Submissions
 		addBadge("Catman", "ActivityWriter01", "2016/08/20"); //2 Submissions
 		addBadge("Catman", "PathOfOmnipotence", "2017/05/28");
 		addBadge("Catman", "GamePandemic", "2014/07/15");
@@ -694,6 +694,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Safe Haven", "JupiterDjinn", "2017/06/09");
 		addBadge("Safe Haven", "ActivityTopicMaker010", "2016/06/29");
 		addBadge("Safe Haven", "ActivityCodexCreator01", "2017/07/29"); //2 Submissions
+		addBadge("Safe Haven", "ActivityArtist01", "2017/06/14"); //2 Submissions
 		addBadge("Safe Haven", "ActivityWriter05", "2017/07/01");
 		//addBadge("Safe Haven", "ClubBadArtist", "2016/06/11");
 		addBadge("Safe Haven", "EventValentine2017", "2017/02/14");
@@ -820,7 +821,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Violet Spinel", "ActivityCodexCreator01", "2017/07/30"); //1 Submissions
 		addBadge("Violet Spinel", "ActivityMusician15", "2017/05/28"); //17 submissions
 		addBadge("Violet Spinel", "ActivityArtist01", "2016/07/06"); //1 Submission
-		addBadge("Violet Spinel", "ActivityWriter01", "2016/08/20"); //2 Submissions
+		addBadge("Violet Spinel", "ActivityWriter01", "2016/08/20"); //4 Submissions
 		addBadge("Violet Spinel", "GameMexStand", "2016/07/11");
 		addBadge("Violet Spinel", "GameWerewolfWin", "2015/09/22");
 		//addBadge("Violet Spinel", "ClubBadArtist", "2016/06/11");
