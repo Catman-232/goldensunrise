@@ -817,6 +817,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Violet Spinel", "CharacterBuildCaster", "2016/12/12");
 		addBadge("Violet Spinel", "CharacterClassQuartz", "2016/12/10");
 		addBadge("Violet Spinel", "ActivityTopicMaker005", "2016/06/29");
+		addBadge("Violet Spinel", "ActivityCodexCreator01", "2017/07/30"); //1 Submissions
 		addBadge("Violet Spinel", "ActivityMusician15", "2017/05/28"); //17 submissions
 		addBadge("Violet Spinel", "ActivityArtist01", "2016/07/06"); //1 Submission
 		addBadge("Violet Spinel", "ActivityWriter01", "2016/08/20"); //2 Submissions
