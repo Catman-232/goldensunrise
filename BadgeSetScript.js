@@ -382,7 +382,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Catman", "ActivityTopSilver", "2015/06/20");
 		addBadge("Catman", "ActivityTopicMaker085", "2016/06/29");
 		addBadge("Catman", "ActivityCodexCreator01", "2017/07/29"); //2 Submissions
-		addBadge("Catman", "ActivityArtist01", "2016/07/14"); //2 Submissions
+		addBadge("Catman", "ActivityArtist01", "2016/07/14"); //3 Submissions
 		addBadge("Catman", "ActivityWriter01", "2016/08/20"); //2 Submissions
 		addBadge("Catman", "PathOfOmnipotence", "2017/05/28");
 		addBadge("Catman", "GamePandemic", "2014/07/15");
