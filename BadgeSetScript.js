@@ -581,8 +581,9 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Miva", "CharacterBuildCaster", "2016/12/10");
 		addBadge("Miva", "CharacterClassMiva", "2016/12/10");
 		addBadge("Miva", "JupiterDjinn", "2017/06/12");
-		addBadge("Miva", "ActivityGardening01", "2017/05/13");
+		addBadge("Miva", "ActivityGardening01", "2017/05/13"); //4 submissions
 		addBadge("Miva", "ActivityTopSilver", "2015/03/31");
+		addBadge("Miva", "ActivityCodexCreator01", "2017/07/30"); //2 Submissions
 		addBadge("Miva", "ActivityTopicMaker125", "2016/09/19");
 		addBadge("Miva", "ActivityArtist05", "2016/08/20"); //9 Submissions
 		addBadge("Miva", "PathOfOmnipotence", "2017/05/28");
@@ -694,7 +695,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Safe Haven", "JupiterDjinn", "2017/06/09");
 		addBadge("Safe Haven", "ActivityTopicMaker010", "2016/06/29");
 		addBadge("Safe Haven", "ActivityCodexCreator01", "2017/07/29"); //2 Submissions
-		addBadge("Safe Haven", "ActivityArtist01", "2017/06/14"); //2 Submissions
+		addBadge("Safe Haven", "ActivityArtist01", "2017/06/14"); //3 Submissions
 		addBadge("Safe Haven", "ActivityWriter05", "2017/07/01");
 		//addBadge("Safe Haven", "ClubBadArtist", "2016/06/11");
 		addBadge("Safe Haven", "EventValentine2017", "2017/02/14");
