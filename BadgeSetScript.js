@@ -693,6 +693,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Safe Haven", "CharacterClassHaven", "2016/12/10");
 		addBadge("Safe Haven", "JupiterDjinn", "2017/06/09");
 		addBadge("Safe Haven", "ActivityTopicMaker010", "2016/06/29");
+		addBadge("Safe Haven", "ActivityCodexCreator01", "2017/07/29"); //2 Submissions
 		addBadge("Safe Haven", "ActivityWriter05", "2017/07/01");
 		//addBadge("Safe Haven", "ClubBadArtist", "2016/06/11");
 		addBadge("Safe Haven", "EventValentine2017", "2017/02/14");
@@ -732,7 +733,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Saucy Goblin", "CharacterClassGoblin", "2016/12/10");
 		addBadge("Saucy Goblin", "ActivityCodexCreator01", "2017/07/29"); //2 Submissions
 		addBadge("Saucy Goblin", "ActivityArtist05", "2016/07/14"); //8 Submissions
-		addBadge("Saucy Goblin", "ActivityWriter01", "2016/07/14"); //2 Submission
+		addBadge("Saucy Goblin", "ActivityWriter01", "2016/07/14"); //3 Submission
 		addBadge("Saucy Goblin", "GameWerewolfWin", "2015/09/22");
 		addBadge("Saucy Goblin", "GameBadArt", "2017/05/28");
 		//addBadge("Saucy Goblin", "ClubBadArtist", "2016/06/11");
@@ -815,7 +816,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Violet Spinel", "CharacterBuildCaster", "2016/12/12");
 		addBadge("Violet Spinel", "CharacterClassQuartz", "2016/12/10");
 		addBadge("Violet Spinel", "ActivityTopicMaker005", "2016/06/29");
-		addBadge("Violet Spinel", "ActivityMusician15", "2017/05/28"); //15 submissions
+		addBadge("Violet Spinel", "ActivityMusician15", "2017/05/28"); //17 submissions
 		addBadge("Violet Spinel", "ActivityArtist01", "2016/07/06"); //1 Submission
 		addBadge("Violet Spinel", "ActivityWriter01", "2016/08/20"); //2 Submissions
 		addBadge("Violet Spinel", "GameMexStand", "2016/07/11");
