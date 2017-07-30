@@ -383,7 +383,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Catman", "ActivityTopicMaker085", "2016/06/29");
 		addBadge("Catman", "ActivityCodexCreator01", "2017/07/29"); //2 Submissions
 		addBadge("Catman", "ActivityArtist01", "2016/07/14"); //3 Submissions
-		addBadge("Catman", "ActivityWriter01", "2016/08/20"); //3 Submissions
+		addBadge("Catman", "ActivityWriter01", "2016/08/20"); //4 Submissions
 		addBadge("Catman", "PathOfOmnipotence", "2017/05/28");
 		addBadge("Catman", "GamePandemic", "2014/07/15");
 		addBadge("Catman", "GameRisk", "2014/09/12");
@@ -455,6 +455,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("DeltanTD", "CharacterFundamentLunar", "2016/12/10");
 		addBadge("DeltanTD", "CharacterBuildWarrior", "2016/12/10");
 		addBadge("DeltanTD", "CharacterClassDeltan", "2016/12/10");
+		addBadge("DeltanTD", "ActivityCodexCreator01", "2017/07/30"); //1 Submissions
 		addBadge("DeltanTD", "ActivityWriter01", "2016/10/30"); //2 Submissions
 		addBadge("DeltanTD", "GameWerewolf", "2015/09/22");
 		addBadge("DeltanTD", "EventDefender2016", "2016/12/03");
@@ -550,6 +551,8 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("KnightOfPurgatory", "CharacterFundamentStellar", "2016/12/12");
 		addBadge("KnightOfPurgatory", "CharacterBuildWarrior", "2016/12/12");
 		addBadge("KnightOfPurgatory", "CharacterClassKoP", "2016/12/12");
+		addBadge("KnightOfPurgatory", "ActivityCodexCreator01", "2017/07/30"); //1 Submissions
+		addBadge("KnightOfPurgatory", "ActivityArtist01", "2017/07/30"); //2 Submissions
 		addBadge("KnightOfPurgatory", "GameMexStand", "2016/07/11");
 		//addBadge("KnightOfPurgatory", "ClubBadArtist", "2016/06/11");
 		addBadge("KnightOfPurgatory", "EventValentine2017", "2017/02/14");
@@ -696,7 +699,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Safe Haven", "ActivityTopicMaker010", "2016/06/29");
 		addBadge("Safe Haven", "ActivityCodexCreator01", "2017/07/29"); //2 Submissions
 		addBadge("Safe Haven", "ActivityArtist01", "2017/06/14"); //3 Submissions
-		addBadge("Safe Haven", "ActivityMusician01", "2017/07/30"); //1 Submissions
+		addBadge("Safe Haven", "ActivityMusician01", "2017/07/30"); //2 Submissions
 		addBadge("Safe Haven", "ActivityWriter05", "2017/07/01");
 		//addBadge("Safe Haven", "ClubBadArtist", "2016/06/11");
 		addBadge("Safe Haven", "EventValentine2017", "2017/02/14");
