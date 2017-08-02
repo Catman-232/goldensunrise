@@ -528,6 +528,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Ignatius", "MarsDjinn", "2017/06/12");
 		addBadge("Ignatius", "MarsAdept", "2017/06/12");
 		addBadge("Ignatius", "EventSanta2016", "2017/06/12");
+		addBadge("Ignatius", "EventDefender2016", "2017/08/02");
 
 		addBadge("InquisitorEvelyn", "CharacterElementMercury", "2016/12/10");
 		addBadge("InquisitorEvelyn", "CharacterFundamentSolar", "2016/12/10");
