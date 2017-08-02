@@ -394,7 +394,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Catman", "ImmortalCombatNormalHost", "2017/05/28");
 		addBadge("Catman", "ImmortalCombatSpecialHost", "2017/05/28");
 		addBadge("Catman", "ImmortalCombatSpecialWinner", "2017/05/28");
-		addBadge("Catman", "GameBadArt", "2017/05/28"); //2 Win
+		addBadge("Catman", "GameBadArt", "2017/05/28"); //3 Win
 		//addBadge("Catman", "ClubBadArtist", "2016/06/11");
 		//addBadge("Catman", "ClubDnDRound", "2016/06/11");
 		addBadge("Catman", "EventValentine2017", "2017/02/14");
@@ -620,6 +620,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Nedben", "ActivityWriter10", "2017/01/03"); //11 Submissions
 		addBadge("Nedben", "ActivityCodexCreator05", "2017/07/15"); //5 Submissions
 		addBadge("Nedben", "AllianceCompWinner01", "2017/05/28");
+		addBadge("Nedben", "GameBadArt", "2017/05/28"); //1 Win
 		addBadge("Nedben", "EventValentine2017", "2017/02/14");
 		addBadge("Nedben", "EventHalloween2016", "2016/10/31");
 		addBadge("Nedben", "EventDefender2016", "2016/12/03");
