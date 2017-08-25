@@ -29,7 +29,7 @@ newmarker('Games Hall','http://z5.ifrm.com/5920/164/0/f5037422/ForumGamesNew.png
 newmarker('Roleplays','http://z5.ifrm.com/5920/164/0/f5037479/ForumRoleplayNew.png','http://z5.ifrm.com/5920/164/0/f5037480/ForumRoleplayRead.png');
 
 newmarker("Clan Registration and Badges",'http://z5.ifrm.com/5920/164/0/f5037476/ForumRegistryNew.png','http://z5.ifrm.com/5920/164/0/f5037477/ForumRegistryRead.png');
-newmarker("Venus Clan Board",'http://b3.ifrm.com/5920/164/0/f7000862/VenusClanRead.png','http://b3.ifrm.com/5920/164/0/f7000866/VenusClanNew.png');
+newmarker("Venus Clan Board",'http://b3.ifrm.com/5920/164/0/f7000866/VenusClanNew.png','http://b3.ifrm.com/5920/164/0/f7000862/VenusClanRead.png');
 newmarker("Mars Clan Board",'http://b3.ifrm.com/5920/164/0/f7000864/MarsClanNew.png','http://b3.ifrm.com/5920/164/0/f7000860/MarsClanRead.png');
 newmarker("Jupiter Clan Board",'http://b3.ifrm.com/5920/164/0/f7000915/JupiterClanNew.png','http://b3.ifrm.com/5920/164/0/f7000861/JupiterClanRead.png');
 newmarker("Mercury Clan Board",'http://b3.ifrm.com/5920/164/0/f7000863/MercuryClanNew.png','http://b3.ifrm.com/5920/164/0/f7000859/MercuryClanRead.png');
