@@ -703,6 +703,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Safe Haven", "ActivityArtist01", "2017/06/14"); //3 Submissions
 		addBadge("Safe Haven", "ActivityMusician01", "2017/07/30"); //2 Submissions
 		addBadge("Safe Haven", "ActivityWriter05", "2017/07/01");
+		addBadge("Safe Haven", "GameBadArtWin", "2017/09/06");
 		//addBadge("Safe Haven", "ClubBadArtist", "2016/06/11");
 		addBadge("Safe Haven", "EventValentine2017", "2017/02/14");
 		addBadge("Safe Haven", "EventDefender2016", "2016/12/03");
