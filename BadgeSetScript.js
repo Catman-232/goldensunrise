@@ -688,6 +688,8 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Robert Joe", "CharacterClassRobertJoe", "2016/12/10");
 		//addBadge("Robert Joe", "ClubDnDRound", "2016/06/11");
 		addBadge("Robert Joe", "EventDefender2016", "2016/12/03");
+		
+		addBadge("Roger", "AllianceRankJupiter1", "2017/09/08");
 
 		//S
 
