@@ -384,6 +384,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Catman", "ActivityCodexCreator01", "2017/07/29"); //2 Submissions
 		addBadge("Catman", "ActivityArtist01", "2016/07/14"); //3 Submissions
 		addBadge("Catman", "ActivityWriter01", "2016/08/20"); //4 Submissions
+		addBadge("Catman", "AllianceCompWinner01", "2017/09/26");
 		addBadge("Catman", "PathOfOmnipotence", "2017/05/28");
 		addBadge("Catman", "GamePandemic", "2014/07/15");
 		addBadge("Catman", "GameRisk", "2014/09/12");
@@ -747,6 +748,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Saucy Goblin", "ActivityArtist05", "2016/07/14"); //8 Submissions
 		addBadge("Saucy Goblin", "ActivityMusician01", "2017/07/30"); //2 Submissions
 		addBadge("Saucy Goblin", "ActivityWriter01", "2016/07/14"); //3 Submission
+		addBadge("Saucy Goblin", "AllianceCompWinner01", "2017/09/26");
 		addBadge("Saucy Goblin", "GameWerewolfWin", "2015/09/22");
 		addBadge("Saucy Goblin", "GameBadArt", "2017/05/28");
 		//addBadge("Saucy Goblin", "ClubBadArtist", "2016/06/11");
