@@ -376,7 +376,6 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 
 		//C
 
-		addBadge("Catman", "StaffAdmin", "2016/12/03");
 		addBadge("Catman", "AllianceRankMarsCatman", "2016/06/25");
 		addBadge("Catman", "MarsElement", "2016/06/25");
 		addBadge("Catman", "ActivityTopSilver", "2015/06/20");
