@@ -10,7 +10,7 @@ newmarker('Help Desk','http://z5.ifrm.com/5920/164/0/f5037434/ForumHelpNew.png',
 newmarker("Suggestions",'http://z5.ifrm.com/5920/164/0/f5037485/ForumSuggestNew.png','http://z5.ifrm.com/5920/164/0/f5037486/ForumSuggestRead.png');
 newmarker("Golden Sunrise Awards","http://b3.ifrm.com/5920/164/0/f7000115/ForumAwardsNew.png","http://b3.ifrm.com/5920/164/0/f7000116/ForumAwardsRead.png");
 newmarker('Administration','http://z5.ifrm.com/5920/164/0/f5037373/ForumAdminNew.png','http://z5.ifrm.com/5920/164/0/f5037374/ForumAdminRead.png');
-newmarker('Summer Fun with Golden Sunrise','http://b3.ifrm.com/5920/164/0/f7000590/ForumEventNew.png','http://b3.ifrm.com/5920/164/0/f7000591/ForumEventRead.png');
+newmarker('Fall Fun with Golden Sunrise','http://b3.ifrm.com/5920/164/0/f7000590/ForumEventNew.png','http://b3.ifrm.com/5920/164/0/f7000591/ForumEventRead.png');
 
 newmarker('Off-Topic Discussion','http://z5.ifrm.com/5920/164/0/f5037431/ForumGDNew.png','http://z5.ifrm.com/5920/164/0/f5037432/ForumGDRead.png');
 newmarker('The Tavern','http://z5.ifrm.com/5920/164/0/f5037488/ForumTavernNew.png','http://z5.ifrm.com/5920/164/0/f5037489/ForumTavernRead.png');
