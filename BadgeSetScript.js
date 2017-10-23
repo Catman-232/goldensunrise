@@ -29,7 +29,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		createBadge("AllianceRankVenus4", "http://b3.ifrm.com/5920/164/0/f7000435/sunrise_clan_rank_venus_elite_mini.jpg", "Elite", false);
 		createBadge("AllianceRankVenus5", "http://b3.ifrm.com/5920/164/0/f7000437/sunrise_clan_rank_venus_nobility_mini.jpg", "Nobility", false);
 
-		createBadge("AllianceRankVenusQuartz", "http://b3.ifrm.com/5920/164/0/f7000492/sunrise_clan_rank_venus_custom_machinist_mini.jpg", "Machinist", false);
+		createBadge("AllianceRankVenusSpinel", "http://b3.ifrm.com/5920/164/0/f7000492/sunrise_clan_rank_venus_custom_machinist_mini.jpg", "Machinist", false);
 		createBadge("AllianceRankVenusShadow", "http://b3.ifrm.com/5920/164/0/f7000494/sunrise_clan_rank_venus_custom_earth_king_mini.jpg", "The Earth King", false);
 		createBadge("AllianceRankVenusMiva", "http://b3.ifrm.com/5920/164/0/f7000556/sunrise_clan_rank_venus_custom_dwarven_scholar_mini.jpg", "Dwarven Scholar", false);
 		
@@ -49,6 +49,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		createBadge("AllianceRankJupiter4", "http://b3.ifrm.com/5920/164/0/f7000447/sunrise_clan_rank_jupiter_thaumaturge_mini.jpg", "Thaumaturge", false);
 		createBadge("AllianceRankJupiter5", "http://b3.ifrm.com/5920/164/0/f7000454/sunrise_clan_rank_jupiter_master_mini.jpg", "Master", false);
 
+		createBadge("AllianceRankJupiterSpinel", "http://b3.ifrm.com/5920/164/0/f7000956/sunrise_clan_rank_jupiter_custom_machinist_mini.jpg", "Machinist", false);
 		createBadge("AllianceRankJupiterRolina","http://b3.ifrm.com/5920/164/0/f7000490/sunrise_clan_rank_jupiter_custom_fulminous_witch_mini.jpg", "Fulminous Witch", false);
 		//createBadge("AllianceRankJupiterRolinaClanless","http://b3.ifrm.com/5920/164/0/f7000491/sunrise_clan_rank_clanless_custom_fulminous_witch_mini.jpg", "Fulminous Witch", false);
 		
@@ -826,7 +827,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		//V
 		
 		addBadge("Violet Spinel", "StaffAdmin", "2016/12/16");
-		addBadge("Violet Spinel", "AllianceRankVenusQuartz", "2016/12/12");
+		addBadge("Violet Spinel", "AllianceRankJupiterSpinel", "2017/10/23");
 		addBadge("Violet Spinel", "CharacterElementVenus", "2016/12/12");
 		addBadge("Violet Spinel", "CharacterFundamentSolar", "2016/12/12");
 		addBadge("Violet Spinel", "CharacterBuildCaster", "2016/12/12");
