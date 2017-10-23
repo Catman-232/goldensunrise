@@ -825,6 +825,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		
 		//V
 		
+		addBadge("Violet Spinel", "StaffAdmin", "2016/12/16");
 		addBadge("Violet Spinel", "AllianceRankVenusQuartz", "2016/12/12");
 		addBadge("Violet Spinel", "CharacterElementVenus", "2016/12/12");
 		addBadge("Violet Spinel", "CharacterFundamentSolar", "2016/12/12");
