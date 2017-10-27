@@ -633,6 +633,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Neshi", "CharacterFundamentStellar", "2016/12/10");
 		addBadge("Neshi", "CharacterBuildWarrior", "2016/12/10");
 		addBadge("Neshi", "CharacterClassNeshi", "2016/12/10");
+		addBadge("Neshi", "MercuryAdept", "2017/10/26");
 		addBadge("Neshi", "VenusDjinn", "2017/06/14");
 		addBadge("Neshi", "ActivityTopicMaker040", "2015/08/21");
 		addBadge("Neshi", "ActivityArtist25", "2017/06/14"); //29 Submissions
@@ -832,6 +833,8 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Violet Spinel", "CharacterFundamentSolar", "2016/12/12");
 		addBadge("Violet Spinel", "CharacterBuildCaster", "2016/12/12");
 		addBadge("Violet Spinel", "CharacterClassQuartz", "2016/12/10");
+		addBadge("Violet Spinel", "VenusAdept", "2017/10/26");
+		addBadge("Violet Spinel", "JupiterDjinn", "2017/10/26");
 		addBadge("Violet Spinel", "ActivityTopicMaker005", "2016/06/29");
 		addBadge("Violet Spinel", "ActivityCodexCreator01", "2017/07/30"); //1 Submissions
 		addBadge("Violet Spinel", "ActivityMusician15", "2017/05/28"); //17 submissions
