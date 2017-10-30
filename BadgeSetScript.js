@@ -636,7 +636,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Neshi", "MercuryAdept", "2017/10/26");
 		addBadge("Neshi", "VenusDjinn", "2017/06/14");
 		addBadge("Neshi", "ActivityTopicMaker040", "2015/08/21");
-		addBadge("Neshi", "ActivityArtist25", "2017/06/14"); //29 Submissions
+		addBadge("Neshi", "ActivityArtist30", "2017/06/14"); //30 Submissions
 		addBadge("Neshi", "ActivityMusician01", "2017/06/14"); //1 Submissions
 		addBadge("Neshi", "GameBadArt", "2017/05/28");
 		//addBadge("Neshi", "ClubBadArtist", "2016/06/11");
@@ -819,6 +819,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Tichondrian", "EventDefender2016", "2016/12/03");
 
 		addBadge("Tinfect", "StaffAmbassadorAU", "2016/12/12");
+		addBadge("Tinfect", "AllianceRankJupiter1", "2017/10/30");
 
 		addBadge("TK", "PathOfOmnipotence", "2017/05/28");
 		addBadge("TK", "EventDefender2015", "2015/03/23");
@@ -837,9 +838,9 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Violet Spinel", "JupiterDjinn", "2017/10/26");
 		addBadge("Violet Spinel", "ActivityTopicMaker005", "2016/06/29");
 		addBadge("Violet Spinel", "ActivityCodexCreator01", "2017/07/30"); //1 Submissions
-		addBadge("Violet Spinel", "ActivityMusician15", "2017/05/28"); //17 submissions
+		addBadge("Violet Spinel", "ActivityMusician20", "2017/05/28"); //20 submissions
 		addBadge("Violet Spinel", "ActivityArtist01", "2016/07/06"); //1 Submission
-		addBadge("Violet Spinel", "ActivityWriter01", "2016/08/20"); //4 Submissions
+		addBadge("Violet Spinel", "ActivityWriter05", "2016/08/20"); //5 Submissions
 		addBadge("Violet Spinel", "GameMexStand", "2016/07/11");
 		addBadge("Violet Spinel", "GameWerewolfWin", "2015/09/22");
 		//addBadge("Violet Spinel", "ClubBadArtist", "2016/06/11");
