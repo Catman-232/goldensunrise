@@ -822,6 +822,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		
 		addBadge("Theo", "AllianceRankJupiter4", "2017/07/04");
 		
+		addBadge("TiamaJaybird", "AllianceRankMercury1", "2017/10/31");
 		addBadge("TiamaJaybird", "ActivityCooking10", "2017/05/28"); // 11 submissions
 		//addBadge("TiamaJaybird", "ClubBadArtist", "2016/07/03");
 		//addBadge("TiamaJaybird", "ClubDnD", "2016/07/03");
