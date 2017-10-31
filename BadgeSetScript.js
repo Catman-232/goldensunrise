@@ -828,25 +828,25 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		
 		//V
 		
-		addBadge("Violet Spinel", "StaffAdmin", "2016/12/16");
-		addBadge("Violet Spinel", "AllianceRankJupiterSpinel", "2017/10/23");
-		addBadge("Violet Spinel", "CharacterElementVenus", "2016/12/12");
-		addBadge("Violet Spinel", "CharacterFundamentSolar", "2016/12/12");
-		addBadge("Violet Spinel", "CharacterBuildCaster", "2016/12/12");
-		addBadge("Violet Spinel", "CharacterClassQuartz", "2016/12/10");
-		addBadge("Violet Spinel", "VenusAdept", "2017/10/26");
-		addBadge("Violet Spinel", "JupiterDjinn", "2017/10/26");
-		addBadge("Violet Spinel", "ActivityTopicMaker005", "2016/06/29");
-		addBadge("Violet Spinel", "ActivityCodexCreator01", "2017/07/30"); //1 Submissions
-		addBadge("Violet Spinel", "ActivityMusician20", "2017/05/28"); //20 submissions
-		addBadge("Violet Spinel", "ActivityArtist01", "2016/07/06"); //1 Submission
-		addBadge("Violet Spinel", "ActivityWriter05", "2016/08/20"); //5 Submissions
-		addBadge("Violet Spinel", "GameMexStand", "2016/07/11");
-		addBadge("Violet Spinel", "GameWerewolfWin", "2015/09/22");
+		addBadge("Purple Quartz", "StaffAdmin", "2016/12/16");
+		addBadge("Purple Quartz", "AllianceRankJupiterSpinel", "2017/10/23");
+		addBadge("Purple Quartz", "CharacterElementVenus", "2016/12/12");
+		addBadge("Purple Quartz", "CharacterFundamentSolar", "2016/12/12");
+		addBadge("Purple Quartz", "CharacterBuildCaster", "2016/12/12");
+		addBadge("Purple Quartz", "CharacterClassQuartz", "2016/12/10");
+		addBadge("Purple Quartz", "VenusAdept", "2017/10/26");
+		addBadge("Purple Quartz", "JupiterDjinn", "2017/10/26");
+		addBadge("Purple Quartz", "ActivityTopicMaker005", "2016/06/29");
+		addBadge("Purple Quartz", "ActivityCodexCreator01", "2017/07/30"); //1 Submissions
+		addBadge("Purple Quartz", "ActivityMusician20", "2017/05/28"); //20 submissions
+		addBadge("Purple Quartz", "ActivityArtist01", "2016/07/06"); //1 Submission
+		addBadge("Purple Quartz", "ActivityWriter05", "2016/08/20"); //5 Submissions
+		addBadge("Purple Quartz", "GameMexStand", "2016/07/11");
+		addBadge("Purple Quartz", "GameWerewolfWin", "2015/09/22");
 		//addBadge("Violet Spinel", "ClubBadArtist", "2016/06/11");
 		//addBadge("Violet Spinel", "ClubDnD", "2016/06/11");
-		addBadge("Violet Spinel", "EventHalloween2016", "2016/10/31");
-		addBadge("Violet Spinel", "EventDefender2016", "2016/12/03");
+		addBadge("Purple Quartz", "EventHalloween2016", "2016/10/31");
+		addBadge("Purple Quartz", "EventDefender2016", "2016/12/03");
 		
 		//W
 
