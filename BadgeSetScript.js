@@ -455,6 +455,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Delfes", "ActivityArtist01", "2016/07/30"); //3 Submissions
 		addBadge("Delfes", "ActivityWriter01", "2017/06/14"); //2 Submissions
 		addBadge("Delfes", "ActivityCodexCreator01", "2017/07/18"); //2 Submissions
+		addBadge("Delfes", "AllianceCompWinner01", "2017/05/28"); //1 Wins
 		//addBadge("Delfes", "ClubDnD", "2016/06/11");
 		addBadge("Delfes", "EventValentine2017", "2017/02/14");
 		addBadge("Delfes", "EventHalloween2016", "2016/10/31");
@@ -577,6 +578,8 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("KnightOfPurgatory", "EventHalloween2017", "2017/10/31");
 		addBadge("KnightOfPurgatory", "EventDefender2016", "2016/12/03");
 		addBadge("KnightOfPurgatory", "SummerFun2017", "2017/10/31");
+		
+		addBadge("Kongu", "AllianceRankMars1", "2017/11/16");
 
 		//L
 
@@ -848,6 +851,8 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Silva", "EventDefender2015", "2015/03/23");
 
 		//T
+		
+		addBadge("Tawny779", "AllianceRankVenus1", "2017/11/16");
 
 		addBadge("td260", "EventSanta2014", "2014/12/25");
 		addBadge("td260", "EventSanta2015", "2015/12/25");
