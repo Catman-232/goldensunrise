@@ -582,6 +582,8 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Kongu", "AllianceRankMars1", "2017/11/16");
 
 		//L
+		
+		addBadge("Lunor", "AllianceRankJupiter1", "2017/11/30");
 
 		addBadge("Lord Earth", "ActivityTopBronze", "2016/06/26");
 		addBadge("Lord Earth", "GameBadArt", "2017/05/28"); //1 Win
