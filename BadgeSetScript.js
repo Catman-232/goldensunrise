@@ -565,6 +565,9 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Kirigishi", "SummerFun2017", "2017/10/31");
 		
 		addBadge("Kongu", "AllianceRankMars1", "2017/11/16");
+		addBadge("Kongu", "MarsAdept", "2017/12/15");
+		addBadge("Kongu", "MarsDjinn", "2017/12/15");
+		addBadge("Kongu", "ActivityArtist01", "2017/12/15"); //1 Submissions
 
 		//L
 		
@@ -647,7 +650,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Neshi", "MercuryAdept", "2017/10/26");
 		addBadge("Neshi", "VenusDjinn", "2017/06/14");
 		addBadge("Neshi", "ActivityTopicMaker040", "2015/08/21");
-		addBadge("Neshi", "ActivityArtist30", "2017/06/14"); //30 Submissions
+		addBadge("Neshi", "ActivityArtist30", "2017/06/14"); //32 Submissions
 		addBadge("Neshi", "ActivityMusician01", "2017/06/14"); //1 Submissions
 		addBadge("Neshi", "GameBadArt", "2017/05/28");
 		//addBadge("Neshi", "ClubBadArtist", "2016/06/11");
@@ -662,6 +665,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Neshi", "EventDefender2015", "2015/03/23");
 		addBadge("Neshi", "EventDefender2016", "2016/12/03");
 		addBadge("Neshi", "SummerFun2017", "2017/10/31");
+		addBadge("Neshi", "SpookiestMember2017", "2017/12/15");
 
 		addBadge("Nikki", "ActivityTopicMaker010", "2015/03/23");
 		addBadge("Nikki", "PathOfOmnipotence", "2017/05/28");
