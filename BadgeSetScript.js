@@ -492,6 +492,8 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		//F
 
 		addBadge("Fantoma", "EventHalloween2016", "2016/10/31");
+		
+		addBadge("FluffyAttackBear", "AllianceRankMercury1", "2017/12/27");
 
 		addBadge("Formina", "GameCatan", "2015/04/07");
 
