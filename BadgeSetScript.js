@@ -41,7 +41,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		createBadge("AllianceRankMars5", "http://b3.ifrm.com/5920/164/0/f7000453/sunrise_clan_rank_mars_deus_inferno_mini.jpg	", "Deus Inferno", false);
 
 		createBadge("AllianceRankMarsCatman", "http://b3.ifrm.com/5920/164/0/f7000493/sunrise_clan_mars_rank_custom_premium_best_mini.jpg", "Premium Best", false);
-		
+		createBadge("AllianceRankMarsSpinel", "http://b3.ifrm.com/5920/164/0/f7001497/sunrise_clan_rank_mars_custom_machinist_mini.jpg", "Mechanist", false);
 		//Jupiter
 		createBadge("AllianceRankJupiter1", "http://b3.ifrm.com/5920/164/0/f7000443/sunrise_clan_rank_jupiter_scribe_mini.jpg", "Scribe", false);
 		createBadge("AllianceRankJupiter2", "http://b3.ifrm.com/5920/164/0/f7000444/sunrise_clan_rank_jupiter_apprentice_mini.jpg", "Apprentice", false);
@@ -328,6 +328,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		createBadge("EventDefender2015", "http://z5.ifrm.com/5920/164/0/f5037130/EventDefender2015.png", "Defended the forum from the Doom Dragon!", true);
 		createBadge("EventDefender2016", "http://z5.ifrm.com/5920/164/0/f5037131/EventDefender2016.png", "Defended their idea of fun when Darkness Descended!", true);
 		createBadge("EventDefender2017", "http://b3.ifrm.com/5920/164/0/f7000395/EventDefender2017.png", "Faced the eldritch horrors!", true);
+		createBadge("EventDefender2018", "http://b3.ifrm.com/5920/164/0/f7001354/battle_against_golden_ant_badge.png", "Defeated the obnoxious Golden Punch Ant and his Non Golden Punch Ant Army!", true);
 		
 		createBadge("SummerFun2017", "http://b3.ifrm.com/5920/164/0/f7000957/summer_event_badge_17.png", "Took part in the summer festivities!", true);
 		
@@ -415,7 +416,9 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Catman", "EventSanta2015", "2015/12/25");
 		addBadge("Catman", "EventSanta2016", "2016/12/25");
 		addBadge("Catman", "EventDefender2015", "2015/03/23");
-		addBadge("Catman", "EventDefender2016", "2016/12/03");
+		addBadge("Catman", "EventDefender2016", "2016/12/03")
+		addBadge("Catman", "EventDefender2017", "2018/04/28");
+		addBadge("Catman", "EventDefender2018", "2018/04/28");
 		
 		addBadge("Catmanius James Fast Manius", "CharacterElementMars", "2016/12/10");
 		addBadge("Catmanius James Fast Manius", "CharacterFundamentSolar", "2016/12/10");
@@ -461,6 +464,8 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Delfes", "EventHalloween2016", "2016/10/31");
 		addBadge("Delfes", "EventHalloween2017", "2017/10/31");
 		addBadge("Delfes", "EventDefender2016", "2016/12/03");
+		addBadge("Delfes", "EventDefender2017", "2018/04/28");
+		addBadge("Delfes", "EventDefender2018", "2018/04/28");
 		addBadge("Delfes", "EventSanta2016", "2017/06/14");
 		addBadge("Delfes", "SummerFun2017", "2017/10/31");
 
@@ -641,6 +646,8 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Nedben", "EventHalloween2016", "2016/10/31");
 		addBadge("Nedben", "EventHalloween2017", "2017/10/31");
 		addBadge("Nedben", "EventDefender2016", "2016/12/03");
+		addBadge("Nedben", "EventDefender2017", "2018/04/28");
+		addBadge("Nedben", "EventDefender2018", "2018/04/28");
 		addBadge("Nedben", "SummerFun2017", "2017/10/31");
 
 		addBadge("Neshi", "StaffAdmin", "2016/12/03");
@@ -666,6 +673,8 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Neshi", "EventSanta2016", "2016/12/25");
 		addBadge("Neshi", "EventDefender2015", "2015/03/23");
 		addBadge("Neshi", "EventDefender2016", "2016/12/03");
+		addBadge("Neshi", "EventDefender2017", "2018/04/28");
+		addBadge("Neshi", "EventDefender2018", "2018/04/28");
 		addBadge("Neshi", "SummerFun2017", "2017/10/31");
 		addBadge("Neshi", "SpookiestMember2017", "2017/12/15");
 
@@ -682,6 +691,9 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 
 		addBadge("Nox", "EventHalloween2017", "2017/10/31");
 		addBadge("Nox", "SummerFun2017", "2017/10/31");
+		addBadge("Nox", "EventDefender2018", "2018/04/28");
+		
+		addBadge("Numbers", "EventDefender2018", "2018/04/28");
 		
 		//O
 		
@@ -816,6 +828,8 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Shadowfyst997", "EventSanta2015", "2015/12/25");
 		addBadge("Shadowfyst997", "EventSanta2016", "2016/12/25");
 		addBadge("Shadowfyst997", "EventDefender2016", "2016/12/03");
+		addBadge("Shadowfyst997", "EventDefender2017", "2018/04/28");
+		addBadge("Shadowfyst997", "EventDefender2018", "2018/04/28");
 		addBadge("Shadowfyst997", "SummerFun2017", "2017/10/31");
 
 		addBadge("Silva", "ActivityTopGold", "2014/10/29");
@@ -939,6 +953,8 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("xX_GrimCloud_Xx", "EventHalloween2016", "2016/10/31");
 		addBadge("xX_GrimCloud_Xx", "EventHalloween2017", "2017/10/31");
 		addBadge("xX_GrimCloud_Xx", "EventDefender2016", "2016/12/03");
+		addBadge("xX_GrimCloud_Xx", "EventDefender2017", "2018/04/28");
+		addBadge("xX_GrimCloud_Xx", "EventDefender2018", "2018/04/28");
 		addBadge("xX_GrimCloud_Xx", "SummerFun2017", "2017/10/31");
 		
 
