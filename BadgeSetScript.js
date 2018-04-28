@@ -724,6 +724,8 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Robert Joe", "CharacterClassRobertJoe", "2016/12/10");
 		//addBadge("Robert Joe", "ClubDnDRound", "2016/06/11");
 		addBadge("Robert Joe", "EventDefender2016", "2016/12/03");
+		addBadge("Robert Joe", "EventDefender2017", "2018/04/28");
+		addBadge("Robert Joe", "EventDefender2018", "2018/04/28");
 		addBadge("Robert Joe", "SummerFun2017", "2017/10/31");
 		
 		addBadge("roger", "AllianceRankJupiter1", "2017/09/08");
@@ -876,7 +878,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		//V
 		
 		addBadge("Violet Spinel", "StaffAdmin", "2016/12/16");
-		addBadge("Violet Spinel", "AllianceRankJupiterSpinel", "2017/10/23");
+		addBadge("Violet Spinel", "AllianceRankMarsSpinel", "2017/10/23");
 		addBadge("Violet Spinel", "CharacterElementVenus", "2016/12/12");
 		addBadge("Violet Spinel", "CharacterFundamentSolar", "2016/12/12");
 		addBadge("Violet Spinel", "CharacterBuildCaster", "2016/12/12");
@@ -895,6 +897,9 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Violet Spinel", "EventHalloween2016", "2016/10/31");
 		addBadge("Violet Spinel", "EventHalloween2017", "2017/10/31");
 		addBadge("Violet Spinel", "EventDefender2016", "2016/12/03");
+		addBadge("Violet Spinel", "EventDefender2017", "2018/04/28");
+		addBadge("Violet Spinel", "EventDefender2018", "2018/04/28");
+		
 		
 		//W
 
