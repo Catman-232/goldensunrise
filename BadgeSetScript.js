@@ -689,9 +689,9 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Nostalgic Nerd", "ActivityTopicMaker010", "2015/01/15");
 		addBadge("Nostalgic Nerd", "ImmortalCombatNormalPlayer", "2017/05/28");
 
-		addBadge("Nox", "EventHalloween2017", "2017/10/31");
-		addBadge("Nox", "SummerFun2017", "2017/10/31");
-		addBadge("Nox", "EventDefender2018", "2018/04/28");
+		addBadge("NOX", "EventHalloween2017", "2017/10/31");
+		addBadge("NOX", "SummerFun2017", "2017/10/31");
+		addBadge("NOX", "EventDefender2018", "2018/04/28");
 		
 		addBadge("Numbers", "EventDefender2018", "2018/04/28");
 		
