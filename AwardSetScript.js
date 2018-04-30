@@ -6,34 +6,42 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		createAward("IsaacAward2014", "http://z5.ifrm.com/5920/164/0/f5037139/AwardIsaac2014.png", "Best Veteran 2014", true);
 		createAward("IsaacAward2015", "http://z5.ifrm.com/5920/164/0/f5037140/AwardIsaac2015.png", "Best Veteran 2015", true);
 		createAward("IsaacAward2016", "http://z5.ifrm.com/5920/164/0/f5037141/AwardIsaac2016.png", "Best Veteran 2016", true);
+		createAward("IsaacAward2017", "http://b3.ifrm.com/5920/164/0/f7001096/AwardIsaac2017.png", "Best Veteran 2017", true);
 
 		createAward("GaretAward2014", "http://z5.ifrm.com/5920/164/0/f5037143/AwardGaret2014.png", "Funniest Member 2014", true);
 		createAward("GaretAward2015", "http://z5.ifrm.com/5920/164/0/f5037144/AwardGaret2015.png", "Funniest Member 2015", true);
 		createAward("GaretAward2016", "http://z5.ifrm.com/5920/164/0/f5037145/AwardGaret2016.png", "Funniest Member 2016", true);
+		createAward("GaretAward2017", "http://b3.ifrm.com/5920/164/0/f7001097/AwardGaret2017.png", "Funniest Member 2017", true);
 
 		createAward("IvanAward2014", "http://z5.ifrm.com/5920/164/0/f5037147/AwardIvan2014.png", "Most Intelligent Member 2014", true);
 		createAward("IvanAward2015", "http://z5.ifrm.com/5920/164/0/f5037148/AwardIvan2015.png", "Most Intelligent Member 2015", true);
-		createAward("IvanAward2016", "http://z5.ifrm.com/5920/164/0/f5037149/AwardIvan2016.png", "Most Intelligent Member 2016", true);
+		createAward("IvanAward2016", "http://z5.ifrm.com/5920/164/0/f5037149/AwardIvan2016.png", "Most Intelligent Member 2016",
+		createAward("IvanAward2017", "http://b3.ifrm.com/5920/164/0/f7001098/AwardIvan2017.png", "Most Intelligent Member 2017",true);
 
 		createAward("MiaAward2014", "http://z5.ifrm.com/5920/164/0/f5037151/AwardMia2014.png", "Most Helpful Member 2014", true);
 		createAward("MiaAward2015", "http://z5.ifrm.com/5920/164/0/f5037152/AwardMia2015.png", "Most Helpful Member 2015", true);
 		createAward("MiaAward2016", "http://z5.ifrm.com/5920/164/0/f5037153/AwardMia2016.png", "Most Helpful Member 2016", true);
+		createAward("MiaAward2017", "http://b3.ifrm.com/5920/164/0/f7001099/AwardMia2017.png", "Most Helpful Member 2017", true);
 
 		createAward("FelixAward2014", "http://z5.ifrm.com/5920/164/0/f5037156/AwardFelix2014.png", "Best Title 2014", true);
 		createAward("FelixAward2015", "http://z5.ifrm.com/5920/164/0/f5037157/AwardFelix2015.png", "Best Title 2015", true);
 		createAward("FelixAward2016", "http://z5.ifrm.com/5920/164/0/f5037158/AwardFelix2016.png", "Best Title 2016", true);
+		createAward("FelixAward2017", "http://b3.ifrm.com/5920/164/0/f7001102/AwardFelix2017.png", "Best Forum Character 2017", true);
 
 		createAward("JennaAward2014", "http://z5.ifrm.com/5920/164/0/f5037160/AwardJenna2014.png", "Best Username 2014", true);
 		createAward("JennaAward2015", "http://z5.ifrm.com/5920/164/0/f5037161/AwardJenna2015.png", "Best Username 2015", true);
 		createAward("JennaAward2016", "http://z5.ifrm.com/5920/164/0/f5037162/AwardJenna2016.png", "Best Username 2016", true);
-
+		createAward("JennaAward2017", "http://b3.ifrm.com/5920/164/0/f7001103/AwardJenna2017.png", "Best Debater 2017", true);
+		
 		createAward("ShebaAward2014", "http://z5.ifrm.com/5920/164/0/f5037164/AwardSheba2014.png", "Best Avatar and Signature 2014", true);
 		createAward("ShebaAward2015", "http://z5.ifrm.com/5920/164/0/f5037165/AwardSheba2015.png", "Best Avatar and Signature 2015", true);
 		createAward("ShebaAward2016", "http://z5.ifrm.com/5920/164/0/f5037166/AwardSheba2016.png", "Best Avatar and Signature 2016", true);
+		createAward("ShebaAward2017", "http://b3.ifrm.com/5920/164/0/f7001104/AwardSheba2017.png", "Best Forum Profile 2017", true);
 
 		createAward("PiersAward2014", "http://z5.ifrm.com/5920/164/0/f5037168/AwardPiers2014.png", "Most Productive Member 2014", true);
 		createAward("PiersAward2015", "http://z5.ifrm.com/5920/164/0/f5037169/AwardPiers2015.png", "Most Productive Member 2015", true);
 		createAward("PiersAward2016", "http://z5.ifrm.com/5920/164/0/f5037170/AwardPiers2016.png", "Most Productive Member 2016", true);
+		createAward("PiersAward2017", "http://b3.ifrm.com/5920/164/0/f7001105/AwardPiers2017.png", "Most Creative 2017", true);
 
 		createAward("MatthewAward2014", "http://z5.ifrm.com/5920/164/0/f5037172/AwardMatt2014.png", "Best Roleplayer 2014", true);
 		createAward("MatthewAward2015", "http://z5.ifrm.com/5920/164/0/f5037173/AwardMatt2015.png", "Best Roleplayer 2015", true);
@@ -66,6 +74,14 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		createAward("AmitiAward2014", "http://z5.ifrm.com/5920/164/0/f5037200/AwardAmiti2014.png", "Most Creative 2014", true);
 		createAward("AmitiAward2015", "http://z5.ifrm.com/5920/164/0/f5037201/AwardAmiti2015.png", "Most Creative 2015", true);
 		createAward("AmitiAward2016", "http://z5.ifrm.com/5920/164/0/f5037202/AwardAmiti2016.png", "Most Creative 2016", true);
+		
+		createAward("BriggsAward2017", "http://b3.ifrm.com/5920/164/0/f7001106/AwardBriggs2017.png", "Best Roleplayer 2017", true);
+		
+		createAward("AlexAward2017", "http://b3.ifrm.com/5920/164/0/f7001101/AwardAlex2017.png", "Biggest Badass 2017", true);
+		
+		createAward("KradenAward2017", "http://b3.ifrm.com/5920/164/0/f7001100/AwardKraden2017.png", "Most Productive 2017", true);
+		
+		createAward("BabyEoleoAward2017", "http://b3.ifrm.com/5920/164/0/f7001107/AwardEoleo2017.png", "Best Newbie 2017", true);
 	}
 
 	var addAwards = function(){
@@ -119,5 +135,21 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addAward("Catman", "EoleoAward2016", null);
 		addAward("Safe Haven", "SvetaAward2016", null);
 		addAward("Neshi", "AmitiAward2016", null);
+		
+		addAward("Shadowfyst997", "IsaacAward2017", null);
+		addAward("Saucy Goblin", "GaretAward2017", null);
+		addAward("Miva", "IvanAward2017", null);
+		addAward("Shadowfyst997", "MiaAward2017", null);
+		addAward("Saucy Goblin", "FelixAward2017", null);
+		addAward("Delfes", "JennaAward2017", null);
+		addAward("Tich Showers", "ShebaAward2017", null);
+		addAward("Neshi", "PiersAward2017", null);
+		addAward("Violet Spinel", "BriggsAward2017", null);
+		addAward("Catman", "AlexAward2017", null);
+		addAward("Nedben", "KradenAward2017", null);
+		addAward("Kongu", "BabyEoleoAward2017", null);
+		
+		
+		
 	}
 }
