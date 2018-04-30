@@ -142,7 +142,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addAward("Shadowfyst997", "MiaAward2017", null);
 		addAward("Saucy Goblin", "FelixAward2017", null);
 		addAward("Delfes", "JennaAward2017", null);
-		addAward("Tich Showers", "ShebaAward2017", null);
+		addAward("Tichondrian", "ShebaAward2017", null);
 		addAward("Neshi", "PiersAward2017", null);
 		addAward("Violet Spinel", "BriggsAward2017", null);
 		addAward("Catman", "AlexAward2017", null);
