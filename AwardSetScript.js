@@ -15,7 +15,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 
 		createAward("IvanAward2014", "http://z5.ifrm.com/5920/164/0/f5037147/AwardIvan2014.png", "Most Intelligent Member 2014", true);
 		createAward("IvanAward2015", "http://z5.ifrm.com/5920/164/0/f5037148/AwardIvan2015.png", "Most Intelligent Member 2015", true);
-		createAward("IvanAward2016", "http://z5.ifrm.com/5920/164/0/f5037149/AwardIvan2016.png", "Most Intelligent Member 2016",
+		createAward("IvanAward2016", "http://z5.ifrm.com/5920/164/0/f5037149/AwardIvan2016.png", "Most Intelligent Member 2016", true);
 		createAward("IvanAward2017", "http://b3.ifrm.com/5920/164/0/f7001098/AwardIvan2017.png", "Most Intelligent Member 2017",true);
 
 		createAward("MiaAward2014", "http://z5.ifrm.com/5920/164/0/f5037151/AwardMia2014.png", "Most Helpful Member 2014", true);
