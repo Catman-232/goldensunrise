@@ -416,7 +416,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Catman", "EventSanta2015", "2015/12/25");
 		addBadge("Catman", "EventSanta2016", "2016/12/25");
 		addBadge("Catman", "EventDefender2015", "2015/03/23");
-		addBadge("Catman", "EventDefender2016", "2016/12/03")
+		addBadge("Catman", "EventDefender2016", "2016/12/03");
 		addBadge("Catman", "EventDefender2017", "2018/04/28");
 		addBadge("Catman", "EventDefender2018", "2018/04/28");
 		
