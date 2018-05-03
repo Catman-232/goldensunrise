@@ -6,8 +6,8 @@ $(".c_forum strong a:contains("+forumname+")").closest('td').prev().children('a'
 }
 newmarker('Announcements','http://z5.ifrm.com/5920/164/0/f5037379/ForumAnnouncementsNew.png','http://z5.ifrm.com/5920/164/0/f5037380/ForumAnnouncementsRead.png');
 newmarker('City Gates','http://z5.ifrm.com/5920/164/0/f5037425/ForumGatesNew.png','http://z5.ifrm.com/5920/164/0/f5037426/ForumGatesRead.png');
-newmarker('Help Desk','http://z5.ifrm.com/5920/164/0/f5037434/ForumHelpNew.png','http://z5.ifrm.com/5920/164/0/f5037435/ForumHelpRead.png');
-newmarker("Suggestions",'http://z5.ifrm.com/5920/164/0/f5037485/ForumSuggestNew.png','http://z5.ifrm.com/5920/164/0/f5037486/ForumSuggestRead.png');
+newmarker('Help Desk and Suggestions','http://z5.ifrm.com/5920/164/0/f5037434/ForumHelpNew.png','http://z5.ifrm.com/5920/164/0/f5037435/ForumHelpRead.png');
+//newmarker("Suggestions",'http://z5.ifrm.com/5920/164/0/f5037485/ForumSuggestNew.png','http://z5.ifrm.com/5920/164/0/f5037486/ForumSuggestRead.png'); //No longer in use.
 newmarker("Golden Sunrise Awards","http://b3.ifrm.com/5920/164/0/f7000115/ForumAwardsNew.png","http://b3.ifrm.com/5920/164/0/f7000116/ForumAwardsRead.png");
 newmarker('Administration','http://z5.ifrm.com/5920/164/0/f5037373/ForumAdminNew.png','http://z5.ifrm.com/5920/164/0/f5037374/ForumAdminRead.png');
 newmarker('Punch Ants With Golden Sunrise','http://b3.ifrm.com/5920/164/0/f7001365/gold_punch_ant.png','http://b3.ifrm.com/5920/164/0/f7001366/standard_punch_ant.png');
