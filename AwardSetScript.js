@@ -103,9 +103,9 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addAward("Dragomir", "AmitiAward2014", null);
 
 		//addAward("Board Admin (Tsukasa)", "IsaacAward2015", null); Does not exist this year
-		addAward("Tandem", "GaretAward2015", null);
+		addAward("Sagie", "GaretAward2015", null);
 		addAward("Miva", "IvanAward2015", null);
-		addAward("Tandem", "MiaAward2015", null);
+		addAward("Sagie", "MiaAward2015", null);
 		//addAward("Board Admin (Tsukasa)", "FelixAward2015", null); Does not exist this year
 		addAward("Tichondrian", "JennaAward2015", null);
 		addAward("EchoReaver", "ShebaAward2015", null);
