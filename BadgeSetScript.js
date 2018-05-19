@@ -353,6 +353,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Artisan", "ActivityArtist01", "2016/11/17"); //1 Submission
 		addBadge("Artisan", "ActivityWriter01", "2016/10/30"); //1 Submission
 		addBadge("Artisan", "EventValentine2017", "2017/06/09");
+		addBadge("Artisan", "EventValentine2018", "2018/02/14");
 		addBadge("Artisan", "EventHalloween2014", "2014/10/31");
 		addBadge("Artisan", "EventHalloween2015", "2015/10/31");
 		addBadge("Artisan", "EventHalloween2016", "2016/10/31");
@@ -408,6 +409,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		//addBadge("Catman", "ClubBadArtist", "2016/06/11");
 		//addBadge("Catman", "ClubDnDRound", "2016/06/11");
 		addBadge("Catman", "EventValentine2017", "2017/02/14");
+		addBadge("Catman", "EventValentine2018", "2018/02/14");
 		addBadge("Catman", "EventHalloween2014", "2014/10/31");
 		addBadge("Catman", "EventHalloween2015", "2015/10/31");
 		addBadge("Catman", "EventHalloween2016", "2016/10/31");
@@ -415,6 +417,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Catman", "EventSanta2014", "2014/12/25");
 		addBadge("Catman", "EventSanta2015", "2015/12/25");
 		addBadge("Catman", "EventSanta2016", "2016/12/25");
+		addBadge("Catman", "EventSanta2017", "2017/12/25");
 		addBadge("Catman", "EventDefender2015", "2015/03/23");
 		addBadge("Catman", "EventDefender2016", "2016/12/03");
 		addBadge("Catman", "EventDefender2017", "2018/04/28");
@@ -550,6 +553,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Ignatius", "MarsAdept", "2017/06/12");
 		addBadge("Ignatius", "EventHalloween2017", "2017/10/31");
 		addBadge("Ignatius", "EventSanta2016", "2017/06/12");
+		addBadge("Ignatius", "EventSanta2017", "2017/12/25");
 		addBadge("Ignatius", "EventDefender2016", "2017/08/02");
 		addBadge("Ignatius", "SummerFun2017", "2017/10/31");
 
@@ -575,6 +579,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Kongu", "MarsAdept", "2017/12/15");
 		addBadge("Kongu", "MarsDjinn", "2017/12/15");
 		addBadge("Kongu", "ActivityArtist01", "2017/12/15"); //1 Submissions
+		addBadge("Kongu", "EventSanta2017", "2017/12/25");
 
 		//L
 		
@@ -627,6 +632,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Miva", "EventSanta2014", "2014/12/25");
 		addBadge("Miva", "EventSanta2015", "2015/12/25");
 		addBadge("Miva", "EventSanta2016", "2016/12/25");
+		addBadge("Miva", "EventSanta2017", "2017/12/25");
 		addBadge("Miva", "EventDefender2015", "2015/03/23");
 		addBadge("Miva", "EventDefender2016", "2016/12/03");
 		addBadge("Miva", "SummerFun2017", "2017/10/31");
@@ -643,8 +649,10 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Nedben", "AllianceCompWinner01", "2017/05/28"); //2 Wins
 		addBadge("Nedben", "GameBadArt", "2017/05/28"); //1 Win
 		addBadge("Nedben", "EventValentine2017", "2017/02/14");
+		addBadge("Nedben", "EventValentine2018", "2018/02/14");
 		addBadge("Nedben", "EventHalloween2016", "2016/10/31");
 		addBadge("Nedben", "EventHalloween2017", "2017/10/31");
+		addBadge("Nedben", "EventSanta2017", "2017/12/25");
 		addBadge("Nedben", "EventDefender2016", "2016/12/03");
 		addBadge("Nedben", "EventDefender2017", "2018/04/28");
 		addBadge("Nedben", "EventDefender2018", "2018/04/28");
@@ -664,6 +672,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Neshi", "GameBadArt", "2017/05/28");
 		//addBadge("Neshi", "ClubBadArtist", "2016/06/11");
 		addBadge("Neshi", "EventValentine2017", "2017/02/14");
+		addBadge("Neshi", "EventValentine2018", "2018/02/14");
 		addBadge("Neshi", "EventHalloween2014", "2014/10/31");
 		addBadge("Neshi", "EventHalloween2015", "2015/10/31");
 		addBadge("Neshi", "EventHalloween2016", "2016/10/31");
@@ -671,6 +680,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Neshi", "EventSanta2014", "2014/12/25");
 		addBadge("Neshi", "EventSanta2015", "2015/12/25");
 		addBadge("Neshi", "EventSanta2016", "2016/12/25");
+		addBadge("Neshi", "EventSanta2017", "2017/12/25");
 		addBadge("Neshi", "EventDefender2015", "2015/03/23");
 		addBadge("Neshi", "EventDefender2016", "2016/12/03");
 		addBadge("Neshi", "EventDefender2017", "2018/04/28");
@@ -691,6 +701,8 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 
 		addBadge("NOX", "EventHalloween2017", "2017/10/31");
 		addBadge("NOX", "SummerFun2017", "2017/10/31");
+		addBadge("NOX", "EventValentine2018", "2018/02/14");
+		addBadge("NOX", "EventSanta2017", "2017/12/25");
 		addBadge("NOX", "EventDefender2018", "2018/04/28");
 		
 		addBadge("Numbers", "EventDefender2018", "2018/04/28");
@@ -723,6 +735,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Robert Joe", "CharacterBuildWarrior", "2016/12/10");
 		addBadge("Robert Joe", "CharacterClassRobertJoe", "2016/12/10");
 		//addBadge("Robert Joe", "ClubDnDRound", "2016/06/11");
+		addBadge("Robert Joe", "EventSanta2017", "2017/12/25");
 		addBadge("Robert Joe", "EventDefender2016", "2016/12/03");
 		addBadge("Robert Joe", "EventDefender2017", "2018/04/28");
 		addBadge("Robert Joe", "EventDefender2018", "2018/04/28");
@@ -796,7 +809,10 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Saucy Goblin", "EventHalloween2016", "2016/10/31");
 		addBadge("Saucy Goblin", "EventHalloween2017", "2017/10/31");
 		addBadge("Saucy Goblin", "EventSanta2016", "2016/12/25");
+		addBadge("Saucy Goblin", "EventSanta2017", "2017/12/25");
 		addBadge("Saucy Goblin", "EventDefender2016", "2016/12/03");
+		addBadge("Saucy Goblin", "EventDefender2017", "2018/04/28");
+		addBadge("Saucy Goblin", "EventDefender2018", "2018/04/28");
 		addBadge("Saucy Goblin", "SummerFun2017", "2017/10/31");
 
 		addBadge("Shadowfyst997", "StaffAdmin", "2016/12/16");        
@@ -829,6 +845,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Shadowfyst997", "EventSanta2014", "2014/12/25");
 		addBadge("Shadowfyst997", "EventSanta2015", "2015/12/25");
 		addBadge("Shadowfyst997", "EventSanta2016", "2016/12/25");
+		addBadge("Shadowfyst997", "EventSanta2017", "2017/12/25");
 		addBadge("Shadowfyst997", "EventDefender2016", "2016/12/03");
 		addBadge("Shadowfyst997", "EventDefender2017", "2018/04/28");
 		addBadge("Shadowfyst997", "EventDefender2018", "2018/04/28");
@@ -841,6 +858,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		//T
 		
 		addBadge("Tawny779", "AllianceRankVenus1", "2017/11/16");
+		addBadge("Tawny779", "EventDefender2018", "2018/04/28");
 
 		addBadge("td260", "EventSanta2014", "2014/12/25");
 		addBadge("td260", "EventSanta2015", "2015/12/25");
@@ -862,6 +880,7 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		addBadge("Tichondrian", "CharacterClassTich", "2016/12/10");
 		addBadge("Tichondrian", "ActivityTopicMaker005", "2015/02/19");
 		addBadge("Tichondrian", "EventValentine2017", "2017/02/14");
+		addBadge("Tichondrian", "EventValentine2018", "2018/02/14");
 		addBadge("Tichondrian", "EventHalloween2016", "2016/10/31");
 		addBadge("Tichondrian", "EventDefender2015", "2015/03/23");
 		addBadge("Tichondrian", "EventDefender2016", "2016/12/03");
