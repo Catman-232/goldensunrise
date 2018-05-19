@@ -390,6 +390,10 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 
 		addBadge("Catman", "AllianceRankMarsCatman", "2016/06/25");
 		addBadge("Catman", "MarsElement", "2016/06/25");
+		addBadge("Catman", "CharacterElementMars", "2016/12/10");
+		addBadge("Catman", "CharacterFundamentSolar", "2016/12/10");
+		addBadge("Catman", "CharacterBuildFreelancer", "2016/12/10");
+		addBadge("Catman", "CharacterClassCatman", "2016/12/10");
 		addBadge("Catman", "ActivityTopSilver", "2015/06/20");
 		addBadge("Catman", "ActivityTopicMaker085", "2016/06/29");
 		addBadge("Catman", "ActivityCodexCreator01", "2017/07/29"); //2 Submissions
