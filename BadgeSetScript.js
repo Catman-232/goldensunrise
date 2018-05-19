@@ -312,6 +312,8 @@ if(window.location.href.indexOf('topic') == 32 || window.location.href.indexOf('
 		//Event badges. Sorted Holiday, then Event. Holidays sorted in calendar order
 
 		createBadge("EventValentine2017", "http://b3.ifrm.com/5920/164/0/f7000398/EventValentine2017.png", "Participated in Valentines Activities 2017", true);
+		createBadge("EventValentine2018", "http://b3.ifrm.com/5920/164/0/f7000398/EventValentine2017.png", "Participated in Valentines Activities 2018", true);
+		//REPLACE THE ABOVE BADGE IMAGE WITH A 2018 ONE!
 		
 		createBadge("SpookiestMember2017", "http://b3.ifrm.com/5920/164/0/f7000959/thescariest_member_badge_17.png", "The Asbolute Spookiest Member of 2017", true);
 
