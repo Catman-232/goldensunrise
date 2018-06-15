@@ -10,9 +10,10 @@ newmarker('Help Desk and Suggestions','http://z5.ifrm.com/5920/164/0/f5037434/Fo
 //newmarker("Suggestions",'http://z5.ifrm.com/5920/164/0/f5037485/ForumSuggestNew.png','http://z5.ifrm.com/5920/164/0/f5037486/ForumSuggestRead.png'); //No longer in use.
 newmarker("Golden Sunrise Awards","http://b3.ifrm.com/5920/164/0/f7000115/ForumAwardsNew.png","http://b3.ifrm.com/5920/164/0/f7000116/ForumAwardsRead.png");
 newmarker('Administration','http://z5.ifrm.com/5920/164/0/f5037373/ForumAdminNew.png','http://z5.ifrm.com/5920/164/0/f5037374/ForumAdminRead.png');
-newmarker('Punch Ants With Golden Sunrise','http://b3.ifrm.com/5920/164/0/f7001365/gold_punch_ant.png','http://b3.ifrm.com/5920/164/0/f7001366/standard_punch_ant.png');
+newmarker('Events','http://b3.ifrm.com/5920/164/0/f7000590/ForumEventNew.png','http://b3.ifrm.com/5920/164/0/f7000591/ForumEventRead.png');
 
-newmarker('Off-Topic Discussion','http://z5.ifrm.com/5920/164/0/f5037431/ForumGDNew.png','http://z5.ifrm.com/5920/164/0/f5037432/ForumGDRead.png');
+newmarker('Off-Topic Discussion','http://z5.ifrm.com/5920/164/0/f5037431/ForumGDNew.png','http://z5.ifrm.com/5920/164/0/f5037432/ForumGDRead.png'); //No longer in use.
+newmarker('General','http://z5.ifrm.com/5920/164/0/f5037431/ForumGDNew.png','http://z5.ifrm.com/5920/164/0/f5037432/ForumGDRead.png');
 newmarker('The Tavern','http://z5.ifrm.com/5920/164/0/f5037488/ForumTavernNew.png','http://z5.ifrm.com/5920/164/0/f5037489/ForumTavernRead.png');
 newmarker('The Senate','http://z5.ifrm.com/5920/164/0/f5037482/ForumSenateNew.png','http://z5.ifrm.com/5920/164/0/f5037483/ForumSenateRead.png');
 newmarker('Entertainment','http://z5.ifrm.com/5920/164/0/f5037416/ForumEntertainNew.png','http://z5.ifrm.com/5920/164/0/f5037417/ForumEntertainRead.png');
@@ -36,9 +37,10 @@ newmarker("Mercury Clan Board",'http://b3.ifrm.com/5920/164/0/f7000863/MercuryCl
 newmarker('The Alliance Competition','http://z5.ifrm.com/5920/164/0/f5037400/ForumColloseoNew.png','http://z5.ifrm.com/5920/164/0/f5037401/ForumColloseoRead.png');
 newmarker("The World Index",'http://z5.ifrm.com/5920/164/0/f5037503/ForumWorldIndexNew.png','http://z5.ifrm.com/5920/164/0/f5037504/ForumWorldIndexRead.png');
 
-newmarker('The Sun Sagas','http://z5.ifrm.com/5920/164/0/f5037428/ForumGBANew.png','http://z5.ifrm.com/5920/164/0/f5037429/ForumGBARead.png');
-newmarker('Dark Dawn and Beyond','http://z5.ifrm.com/5920/164/0/f5037413/ForumDDNew.png','http://z5.ifrm.com/5920/164/0/f5037414/ForumDDRead.png');
-newmarker('Other Camelot Games','http://z5.ifrm.com/5920/164/0/f5037391/ForumCamelotNew.png','http://z5.ifrm.com/5920/164/0/f5037392/ForumCamelotRead.png');
+newmarker('Golden Sun','http://z5.ifrm.com/5920/164/0/f5037428/ForumGBANew.png','http://z5.ifrm.com/5920/164/0/f5037429/ForumGBARead.png'); 
+newmarker('The Sun Sagas','http://z5.ifrm.com/5920/164/0/f5037428/ForumGBANew.png','http://z5.ifrm.com/5920/164/0/f5037429/ForumGBARead.png'); //No longer in use.
+newmarker('Dark Dawn and Beyond','http://z5.ifrm.com/5920/164/0/f5037413/ForumDDNew.png','http://z5.ifrm.com/5920/164/0/f5037414/ForumDDRead.png'); //No longer in use.
+newmarker('Other Camelot Games','http://z5.ifrm.com/5920/164/0/f5037391/ForumCamelotNew.png','http://z5.ifrm.com/5920/164/0/f5037392/ForumCamelotRead.png'); //No longer in use.
 
 newmarker('Archive','http://z5.ifrm.com/5920/164/0/f5037382/ForumArchivesNew.png','http://z5.ifrm.com/5920/164/0/f5037383/ForumArchivesRead.png');
 
